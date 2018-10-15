@@ -55,7 +55,7 @@ HN: 吉良野すた(stakiran)
 | -------- | ---- |
 | VCS      | Git(GitHub/GitBucket), SVN |
 | Chat     | Slack, Rocket.Chat |
-| Wiki     | Mediawiki, Pukiwiki, MDwiki, Trac |
+| Wiki     | Mediawiki, Pukiwiki, Trac |
 | BTS      | GitHub Issue, Trac |
 | Mail     | Outlook, Gmail |
 
