@@ -1,0 +1,13 @@
+h2 {
+  background-color: #454545;
+  color: #ffffff;
+  padding-left: 12px;
+}
+
+/* 内蔵されている css の .md-typeset h3 にて
+   margin-left が 0 にされているが, 見辛いので important で無理矢理広げる. */
+h3 {
+  border-left: 8px solid black;
+  padding-left: 8px;
+  margin-left: 16px !important;
+}
