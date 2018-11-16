@@ -3,11 +3,6 @@ HN: 吉良野すた(stakiran)
 
 ![avatar](avatar.jpg)
 
-- [GitHub:stakiran](https://github.com/stakiran)
-- [Qiita:sta](https://qiita.com/sta)
-- [Twitter:stakiran2](https://twitter.com/stakiran2)
-- [はてなブログ:stamemo](http://stakiran.hatenablog.com/)
-- [はてなブログ:タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/)
 
 ## 傾向
 - 仕事
@@ -23,7 +18,7 @@ HN: 吉良野すた(stakiran)
 ## 私生活作品
 
 ### Tritask
-- [Tritask](khttps://github.com/tritask)
+- [Tritask](https://github.com/tritask)
 - [タスク管理ツール Tritask のコンセプト - タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/entry/2018/10/09/204331)
 - [テキストエディタでタスク管理を行うということ - タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/entry/2018/10/02/082726)
 
