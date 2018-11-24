@@ -2,7 +2,6 @@
 ![avatarhalf](avatar_half.jpg)
 
 ## 全般
-- 大卒
 - 新卒から大手ソフトウェア会社に勤務
 - 普段は Windows 使い
 
