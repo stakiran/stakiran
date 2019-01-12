@@ -2,6 +2,13 @@
 
 ## 電子書籍
 
+### ルーチンタスクの底力 ～やり忘れとストレスをなくす仕組みと実践～
+![cover_routinetask_power.jpg](cover_routinetask_power.jpg)
+
+[Amazon.co.jp： ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践 eBook: 吉良野すた: Kindleストア](https://www.amazon.co.jp/dp/B07MJW8MVD)
+
+仕事や私生活につきまとう多数のルーチンワーク（繰り返し行う「決まりきった作業」）を体系的に捉え、システム化した「ルーチンタスク管理」について解説した本です。ルーチンタスク管理の概要、運用方法から筆者の事例まで詳しく取り上げています。タスク管理の初心者あるいは未経験者の方でも読み進められるよう平易な解説を心がけ、また実際に手を動かしていただく演習も用意しています。
+
 ### 「ファイル名を指定して実行」のすべて
 ![cover_allofrundialog.jpg](cover_allofrundialog.jpg)
 
@@ -12,6 +19,8 @@ Windows の「ファイル名を指定して実行」について、実用的な
 ## タスク管理
 
 ### Tritask
+![tritask_small.jpg](tritask_small.jpg)
+
 [https://tritask.github.io/tritask-web/](https://tritask.github.io/tritask-web/)
 
 執筆のように。プログラミングのように。テキストエディタでガシガシ編集するストレスフリーなタスク管理ツールです。
@@ -30,15 +39,26 @@ Markdown ファイルの TOC(目次) を生成するツールです。
 
 関連記事: [GitHub 上の Markdown が TOC(目次) を表示してくれないのでどうしようか → ツール自製したよって話 - Qiita](https://qiita.com/sta/items/9481c94e0fc36f27fa92)
 
-### hidemaru markdown
-[GitHub - stakiran/hidemaru_markdown](https://github.com/stakiran/hidemaru_markdown)
+### houtliner
+![houtliner_small.jpg](houtliner_small.jpg)
 
-秀丸エディタで Markdown 執筆環境を整えるための設定( .hilight ファイル)です。基本的な文法のカラー表示と、見出しのアウトライン化（見出し単位でジャンプしたり目次を別枠で表示して俯瞰したりなど）に対応しています。
+[GitHub - stakiran/houtliner: 軽くてパワフルなアウトライナーを、秀丸エディタで。](https://github.com/stakiran/houtliner)
 
-### hidemaru outliner
-[GitHub - stakiran/hidemaru_outliner](https://github.com/stakiran/hidemaru_outliner)
+秀丸エディタ上で動作する 2 ペインのアウトライナーです。
 
-秀丸エディタでアウトライナー(アウトラインプロセッサー)を実現します。指定した見出しを折りたたんだり、アウトライン解析枠の表示位置をワンタッチで変えたりすることができます。
+特徴:
+
+- ローカルで動く(軽く、速い)
+- 秀丸エディタで書ける(20年以上続く国産テキストエディタの品質)
+- シンプルかつ強力な階層コンセプト
+  - ファイル …… .outline ファイル。n 個のセクション、n 個のアウトラインを書ける
+  - セクション …… アウトラインを n 個書ける単位。「大見出し」みたいなもの
+  - アウトライン …… 箇条書きの集合。レベル1, 2, 3, ... とどんどんネストできる
+  - ズーム …… 箇条書き一行に対してテキストファイル一つ分の記入領域を確保
+- アウトラインのレベル別色分け表示で見やすい
+- 日本語で書くために設計された、必要最小限の記法
+- データはただのテキストファイルなので管理しやすい
+- オープンソース + 秀丸エディタマクロとバッチファイルのみで完結した実装
 
 ## プログラムランチャー
 
