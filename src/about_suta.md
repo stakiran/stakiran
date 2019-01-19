@@ -8,7 +8,7 @@
 
 [https://stressfree-fulfilling-solo.hatenablog.com/](https://stressfree-fulfilling-solo.hatenablog.com/)
 
-ソロ充、ライフハック、多趣味の三本柱を軸に、ストレスフリーな生き方を目指しているメインブログです。
+メインブログ。ソロ充、ライフハック、多趣味の三本柱を軸に、ストレスフリーな生き方を模索しています。
 
 ### stamemo
 ![stamemo](blog_stamemo.jpg)
