@@ -3,7 +3,7 @@
 ## 電子書籍
 
 ### ルーチンタスクの底力 ～やり忘れとストレスをなくす仕組みと実践～
-![cover_routinetask_power.jpg](cover_routinetask_power.jpg)
+![cover_routinetask_power.jpg](img/cover_routinetask_power.jpg)
 
 [Amazon.co.jp： ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/dp/B07MJW8MVD)
 
@@ -14,7 +14,7 @@
 タスク管理の初心者あるいは未経験者の方でも読み進められるよう平易な解説を心がけ、また実際に手を動かしていただく演習も用意しています。
 
 ### 「ファイル名を指定して実行」のすべて
-![cover_allofrundialog.jpg](cover_allofrundialog.jpg)
+![cover_allofrundialog.jpg](img/cover_allofrundialog.jpg)
 
 [Amazon.co.jp： 「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/dp/B07JF3BHP5/)
 
@@ -25,7 +25,7 @@ Windows をもっと便利に使いたい方、操作効率を上げて仕事を
 ## タスク管理
 
 ### Tritask
-![tritask_small.jpg](tritask_small.jpg)
+![tritask_small.jpg](img/tritask_small.jpg)
 
 [https://tritask.github.io/tritask-web/](https://tritask.github.io/tritask-web/)
 
@@ -46,7 +46,7 @@ Markdown ファイルの TOC(目次) を生成するツールです。
 関連記事: [GitHub 上の Markdown が TOC(目次) を表示してくれないのでどうしようか → ツール自製したよって話 - Qiita](https://qiita.com/sta/items/9481c94e0fc36f27fa92)
 
 ### houtliner
-![houtliner_small.jpg](houtliner_small.jpg)
+![houtliner_small.jpg](img/houtliner_small.jpg)
 
 [GitHub - stakiran/houtliner: 軽くてパワフルなアウトライナーを、秀丸エディタで。](https://github.com/stakiran/houtliner)
 

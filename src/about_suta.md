@@ -1,24 +1,24 @@
 # 吉良野すたプロフィール
-![avatarhalf](avatar_half.jpg)
+![avatarhalf](img/avatar_half.jpg)
 
 ## ブログ
 
 ### ストレスフリーなソロ充ライフ
-![stressfree](blog_stressfree.jpg)
+![stressfree](img/blog_stressfree.jpg)
 
 [https://stressfree-fulfilling-solo.hatenablog.com/](https://stressfree-fulfilling-solo.hatenablog.com/)
 
 メインブログ。ソロ充、ライフハック、多趣味の三本柱を軸に、ストレスフリーな生き方を模索しています。
 
 ### stamemo
-![stamemo](blog_stamemo.jpg)
+![stamemo](img/blog_stamemo.jpg)
 
 [http://stakiran.hatenablog.com/](http://stakiran.hatenablog.com/)
 
 ソフトウェア技術や仕事効率化の備忘録です。常用している Windows, 秀丸エディタ, AutoHotkey, Python, Markdown, GitHub ネタが多めですが、割と色んなネタを扱っています。
 
 ### タスク管理に恋してる
-![blog_lovetask](blog_lovetask.jpg)
+![blog_lovetask](img/blog_lovetask.jpg)
 
 [https://ilovetaskmanagement.hatenablog.com/](https://ilovetaskmanagement.hatenablog.com/)
 

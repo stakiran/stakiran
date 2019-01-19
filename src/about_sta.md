@@ -1,5 +1,5 @@
 # stakiran プロフィール
-![avatarhalf](avatar_half.jpg)
+![avatarhalf](img/avatar_half.jpg)
 
 ## 全般
 - 新卒から大手ソフトウェア会社に勤務

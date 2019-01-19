@@ -1,5 +1,5 @@
 # 吉良野すた(stakiran)ホームページ
-![avatarhalf](avatar_half.jpg)
+![avatarhalf](img/avatar_half.jpg)
 
 - <a href="https://twitter.com/stakiran2" target="_blank"><img src="logo/twitter.png" alt="twitter_logo" width="48" height="48"></a>
   <a href="http://profile.hatena.ne.jp/stakiran/" target="_blank"><img src="logo/hatena.svg" alt="hatena_logo" width="48" height="48"></a>
@@ -9,6 +9,6 @@
 - [ソフトウェアエンジニアとしての私について](about_sta.md)
 - [ブロガーとしての私について](about_suta.md)
 - [制作物](works.md)
-- [お問い合わせ](contact.html)
+- <a href="contact.html">お問い合わせ</a>
 
 2019 © stakiran
