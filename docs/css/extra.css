@@ -11,3 +11,7 @@ h3 {
   padding-left: 8px;
   margin-left: 16px !important;
 }
+
+p, li {
+  font-size: 16px;
+}
