@@ -31,6 +31,13 @@ Windows をもっと便利に使いたい方、操作効率を上げて仕事を
 
 執筆のように。プログラミングのように。テキストエディタでガシガシ編集するストレスフリーなタスク管理ツールです。
 
+### todochute
+![todochute_small.jpg](img/todochute_small.jpg)
+
+[https://stakiran.github.io/todochute-releases/](https://stakiran.github.io/todochute-releases/)
+
+ブラウザから手軽に使えるタスク管理ツールです。todo.txt のフォーマットに TaskChute のソート機能を混ぜたような使い心地です。
+
 ### Commainder
 [GitHub - stakiran/commainder: ](https://github.com/stakiran/commainder)
 
@@ -50,21 +57,14 @@ Markdown ファイルの TOC(目次) を生成するツールです。
 
 [GitHub - stakiran/houtliner: 軽くてパワフルなアウトライナーを、秀丸エディタで。](https://github.com/stakiran/houtliner)
 
-秀丸エディタ上で動作する 2 ペインのアウトライナーです。
+秀丸エディタ上で動作する 2 ペインのアウトライナーです。日本語で書くために設計された、必要最小限の記法を採用しています。
 
-特徴:
+### hidemaru_freetext
+![freetext_small.jpg](img/freetext_small.jpg)
 
-- ローカルで動く(軽く、速い)
-- 秀丸エディタで書ける(20年以上続く国産テキストエディタの品質)
-- シンプルかつ強力な階層コンセプト
-  - ファイル …… .outline ファイル。n 個のセクション、n 個のアウトラインを書ける
-  - セクション …… アウトラインを n 個書ける単位。「大見出し」みたいなもの
-  - アウトライン …… 箇条書きの集合。レベル1, 2, 3, ... とどんどんネストできる
-  - ズーム …… 箇条書き一行に対してテキストファイル一つ分の記入領域を確保
-- アウトラインのレベル別色分け表示で見やすい
-- 日本語で書くために設計された、必要最小限の記法
-- データはただのテキストファイルなので管理しやすい
-- オープンソース + 秀丸エディタマクロとバッチファイルのみで完結した実装
+[GitHub - stakiran/hidemaru_freetext: ホワイトボードのような自由を、秀丸エディタで。](https://github.com/stakiran/hidemaru_freetext)
+
+フリーカーソルという概念を用いた秀丸エディタ用の拡張機能です。手書きだと遅くて汚い、エディタだと空間配置に弱い……そんな両者の折衷案を目指しています。
 
 ## プログラムランチャー
 
