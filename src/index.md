@@ -7,10 +7,6 @@
   <a href="https://github.com/stakiran" target="_blank"><img src="logo/github.png" alt="github_logo" width="48" height="48"></a>
   <a href="https://qiita.com/sta" target="_blank"><img src="logo/qiita.png" alt="qiita_logo" width="48" height="48"></a>
   <a href="https://portfolio.forkwell.com/@stakiran" target="_blank"><img src="logo/forkwell.svg" alt="forkwell_logo" width="96" height="48"></a>
-- [プロフィール(ソフトウェアエンジニア)](about_sta.md)
-- [プロフィール(forkwell)](https://portfolio.forkwell.com/@stakiran)
-- [プロフィール(ブロガー)](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/10/27/104349)
-  - 別ブログにジャンプします
 - [制作物(プログラム)](works.md)
 - [制作物(書籍・記事)](works_writing.md)
 - <a href="contact.html">お問い合わせ</a>
