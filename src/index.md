@@ -3,9 +3,10 @@
 
 - <a href="https://twitter.com/stakiran2" target="_blank"><img src="logo/twitter.png" alt="twitter_logo" width="48" height="48"></a>
   <a href="http://profile.hatena.ne.jp/stakiran/" target="_blank"><img src="logo/hatena.svg" alt="hatena_logo" width="48" height="48"></a>
-  <a href="https://www.amazon.co.jp/吉良野すた/e/B07JLHMBDV" target="_blank"><img src="logo/amazon.png" alt="amazon_logo" width="48" height="24"></a>
+  <a href="https://www.amazon.co.jp/吉良野すた/e/B07JLHMBDV" target="_blank"><img src="logo/amazon.png" alt="amazon_logo" width="64" height="48"></a>
   <a href="https://github.com/stakiran" target="_blank"><img src="logo/github.png" alt="github_logo" width="48" height="48"></a>
   <a href="https://qiita.com/sta" target="_blank"><img src="logo/qiita.png" alt="qiita_logo" width="48" height="48"></a>
+  <a href="https://portfolio.forkwell.com/@stakiran" target="_blank"><img src="logo/forkwell.svg" alt="forkwell_logo" width="96" height="48"></a>
 - [プロフィール(ソフトウェアエンジニア)](about_sta.md)
 - [プロフィール(forkwell)](https://portfolio.forkwell.com/@stakiran)
 - [プロフィール(ブロガー)](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/10/27/104349)
