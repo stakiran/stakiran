@@ -23,48 +23,14 @@ Windows をもっと便利に使いたい方、操作効率を上げて仕事を
 
 ルーチンワークに忙殺されている方からやり忘れとストレスをなくすことを目指します。
 
-## 主な Qiita 記事
-バズったもの:
+### 執筆を効率化したい人のための秀丸エディタ実践入門
+![cover_hidemaru_efficy.jpg](img/cover_hidemaru_efficy.jpg)
 
-- [ビジネスホテルで一人開発合宿する - Qiita](https://qiita.com/sta/items/65e20f74d4891ab3625d)
-  - 2019/02/11 現在: 343 いいね、40000 view
-  - [はてなブックマーク](http://b.hatena.ne.jp/entry/s/qiita.com/sta/items/65e20f74d4891ab3625d) は 372 users
-- [ベアプログラミングが無理ならサイレントベアプログラミングを検討しよう - Qiita](https://qiita.com/sta/items/6661cfcb57cfefa9a36a)
-  - 2019/02/11 現在で 116 いいね
-  - [はてなブックマーク](http://b.hatena.ne.jp/entry/s/qiita.com/sta/items/6661cfcb57cfefa9a36a) は 24 users
+[Amazon.co.jp： 執筆を効率化したい人のための秀丸エディタ実践入門](https://www.amazon.co.jp/dp/B07R6FTSMT)
 
-反応の良いもの:
+「執筆効率を高めるには基礎が必要」という視点で解説した、秀丸エディタの入門書です。既に何らかのエディタで執筆している方を対象にしています。
 
-- [てっとり早く Windows を使いやすくする定番ツール集 - Qiita](https://qiita.com/sta/items/65b6ed5c0c349c03fb40)
-  - 2019/02/11 現在で 116 いいね、20000 view
-- [バッチファイルでよく使う書き方まとめ - Qiita](https://qiita.com/sta/items/8cab80fe74b8dcfa5336)
-  - 2019/02/11 現在で 44 いいね、55000 view
-- [タスク管理メソッド todo.txt が面白そう - Qiita](https://qiita.com/sta/items/0f72c9c956cf05df8141)
-  - 2019/02/11 現在で 72 いいね、13000 view
-- [「PATH を通す」の意味をできるだけわかりやすく説明する試み - Qiita](https://qiita.com/sta/items/63e1048025d1830d12fd)
-  - 2019/02/11 現在で 45 いいね、11000 view
-- [半角英数字記号と全角英数字かなカナ記号の一覧まとめ - Qiita](https://qiita.com/sta/items/848e7a8c4699a59c604f)
-  - 2019/02/11 現在で 19 いいね、85000 view
-
-## 主なブログ記事
-アクセス解析で上位に入っている記事:
-
-- stamemo
-  - [ひとり Slack でできることと半年使った所感をまとめる - stamemo](http://stakiran.hatenablog.com/entry/2017/09/17/091255)
-  - [秀丸エディタ上でアウトライナーを実現する houtliner - stamemo](http://stakiran.hatenablog.com/entry/2019/01/17/185211)
-  - [Windows における 32bit アプリと 64bit アプリの違い - stamemo](http://stakiran.hatenablog.com/entry/2017/09/14/213307)
-  - [Gmail で受信したメールを Slack にも転送する - stamemo](http://stakiran.hatenablog.com/entry/2018/01/13/173034)
-  - [Adobe Acrobat Reader DC で快適に PDF を読むための設定五つ - stamemo](http://stakiran.hatenablog.com/entry/2018/05/12/175900)
-- ストレスフリーなソロ充ライフ
-  - [はてなブログのサイトマップが読み込まれないのはなぜ？検索結果が反映されないのはなぜ？カラクリがわかったので解説する - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2019/03/17/160105)
-  - [誰も教えてくれない DANCERUSH STARDOM(ダンスラ) 用語集 (2019/03/03 更新) - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/09/073300)
-  - [歴 15 年の僕が教える、ぼっちからソロ充になるための 7 の方法 - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/12/25/071200)
-
-参加レポート:
-
-- 18/07/20 [ワーク・ライフバランス社の働き方改革講演を聴講したのでまとめる - stamemo](http://stakiran.hatenablog.com/entry/2018/07/20/200843)
-- 18/11/18 [ライフハック勉強会＠渋谷編に参加してきました - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/18/090152)
-- 19/03/06 [ダイアログインザダーク「対話のある家」で遊んできました - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2019/03/06/070100)
+一段上の執筆ライフを手に入れたい方。「とりあえず」や「なんとなく」でも効率化してみたい方。秀丸エディタの多機能さを前に重たい腰が上がらない方。既に別の手段を使っているけど、もっと効率的な手段やアイデアについて知りたい方――そんなあなたに贈る、ありそうでなかった実践ガイドです。
 
 ## ブログなど
 - 2017/09/14 [stamemo](http://stakiran.hatenablog.com/)
@@ -87,3 +53,48 @@ Windows をもっと便利に使いたい方、操作効率を上げて仕事を
   - タスク管理、効率論、Soloism など持論について文書化を試みたウェブサイト
   - マニアック度: 中～高
   - 更新頻度: 中～高
+
+## 主な記事
+
+### Qiita
+バズったもの:
+
+- [ビジネスホテルで一人開発合宿する - Qiita](https://qiita.com/sta/items/65e20f74d4891ab3625d)
+  - 2019/02/11 現在: 343 いいね、40000 view
+  - [はてなブックマーク](http://b.hatena.ne.jp/entry/s/qiita.com/sta/items/65e20f74d4891ab3625d) は 372 users
+- [ベアプログラミングが無理ならサイレントベアプログラミングを検討しよう - Qiita](https://qiita.com/sta/items/6661cfcb57cfefa9a36a)
+  - 2019/02/11 現在で 116 いいね
+  - [はてなブックマーク](http://b.hatena.ne.jp/entry/s/qiita.com/sta/items/6661cfcb57cfefa9a36a) は 24 users
+
+反応の良いもの:
+
+- [てっとり早く Windows を使いやすくする定番ツール集 - Qiita](https://qiita.com/sta/items/65b6ed5c0c349c03fb40)
+  - 2019/02/11 現在で 116 いいね、20000 view
+- [バッチファイルでよく使う書き方まとめ - Qiita](https://qiita.com/sta/items/8cab80fe74b8dcfa5336)
+  - 2019/02/11 現在で 44 いいね、55000 view
+- [タスク管理メソッド todo.txt が面白そう - Qiita](https://qiita.com/sta/items/0f72c9c956cf05df8141)
+  - 2019/02/11 現在で 72 いいね、13000 view
+- [「PATH を通す」の意味をできるだけわかりやすく説明する試み - Qiita](https://qiita.com/sta/items/63e1048025d1830d12fd)
+  - 2019/02/11 現在で 45 いいね、11000 view
+- [半角英数字記号と全角英数字かなカナ記号の一覧まとめ - Qiita](https://qiita.com/sta/items/848e7a8c4699a59c604f)
+  - 2019/02/11 現在で 19 いいね、85000 view
+
+### ブログ
+アクセス解析で上位に入っている記事:
+
+- stamemo
+  - [ひとり Slack でできることと半年使った所感をまとめる - stamemo](http://stakiran.hatenablog.com/entry/2017/09/17/091255)
+  - [秀丸エディタ上でアウトライナーを実現する houtliner - stamemo](http://stakiran.hatenablog.com/entry/2019/01/17/185211)
+  - [Windows における 32bit アプリと 64bit アプリの違い - stamemo](http://stakiran.hatenablog.com/entry/2017/09/14/213307)
+  - [Gmail で受信したメールを Slack にも転送する - stamemo](http://stakiran.hatenablog.com/entry/2018/01/13/173034)
+  - [Adobe Acrobat Reader DC で快適に PDF を読むための設定五つ - stamemo](http://stakiran.hatenablog.com/entry/2018/05/12/175900)
+- ストレスフリーなソロ充ライフ
+  - [はてなブログのサイトマップが読み込まれないのはなぜ？検索結果が反映されないのはなぜ？カラクリがわかったので解説する - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2019/03/17/160105)
+  - [誰も教えてくれない DANCERUSH STARDOM(ダンスラ) 用語集 (2019/03/03 更新) - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/09/073300)
+  - [歴 15 年の僕が教える、ぼっちからソロ充になるための 7 の方法 - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/12/25/071200)
+
+参加レポート:
+
+- 18/07/20 [ワーク・ライフバランス社の働き方改革講演を聴講したのでまとめる - stamemo](http://stakiran.hatenablog.com/entry/2018/07/20/200843)
+- 18/11/18 [ライフハック勉強会＠渋谷編に参加してきました - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/18/090152)
+- 19/03/06 [ダイアログインザダーク「対話のある家」で遊んできました - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2019/03/06/070100)
