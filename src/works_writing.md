@@ -41,26 +41,24 @@ Windows をもっと便利に使いたい方、操作効率を上げて仕事を
   - ソフトウェア技術や仕事術に関して調べたこと、試したこと、つくったもの、考えたことなどを雑多に記した備忘録
   - マニアック度: 中～高
   - 更新頻度: 低～中
-- 2018/07/03 [タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/archive/2018/7)
+- 2018/07/03 [タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/)
   - タスク管理に関する各種概念、理論、ツールなどについて調べたり試したり考えたりして楽しんでいるブログ
   - マニアック度: 高
-  - 更新頻度: 低
+  - 2019/07/03 更新停止中 → [タスク管理概説](https://stakiran.github.io/monolithic//monolithic/task_management.html) に移行
 - 2018/10/27 [ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/)
   - ストレスフリーガチ勢を掲げ、ソロ充・毎日定時退社・多趣味などを主軸にした雑記ブログ
   - マニアック度: 低
-  - 更新頻度: 低～中
+  - 更新頻度: 低
 - 2019/01/28 [効率鬼](https://kouritsuoni.hatenablog.com/)
   - 仕事のやり方、捉え方から道具の使い方まで、ストイックに効率化を追求した備忘録
   - マニアック度: 高
-  - 2019/03/15 更新停止中
+  - 2019/07/03 削除済 → 一部内容は [効率論](https://stakiran.github.io/monolithic/efficy.html) に移行
 - 2019/02/23 [Monolithic](https://stakiran.github.io/monolithic/)
-  - タスク管理、効率論、Soloism など持論について文書化を試みたウェブサイト
+  - タスク管理、効率論、Life Programming など持論についてまとめたページ
   - マニアック度: 中～高
   - 更新頻度: 中～高
 
-## 主な記事
-
-### Qiita
+## Qiita
 バズったもの:
 
 - [ビジネスホテルで一人開発合宿する - Qiita](https://qiita.com/sta/items/65e20f74d4891ab3625d)
@@ -82,23 +80,3 @@ Windows をもっと便利に使いたい方、操作効率を上げて仕事を
   - 2019/02/11 現在で 45 いいね、11000 view
 - [半角英数字記号と全角英数字かなカナ記号の一覧まとめ - Qiita](https://qiita.com/sta/items/848e7a8c4699a59c604f)
   - 2019/02/11 現在で 19 いいね、85000 view
-
-### ブログ
-アクセス解析で上位に入っている記事:
-
-- stamemo
-  - [ひとり Slack でできることと半年使った所感をまとめる - stamemo](http://stakiran.hatenablog.com/entry/2017/09/17/091255)
-  - [秀丸エディタ上でアウトライナーを実現する houtliner - stamemo](http://stakiran.hatenablog.com/entry/2019/01/17/185211)
-  - [Windows における 32bit アプリと 64bit アプリの違い - stamemo](http://stakiran.hatenablog.com/entry/2017/09/14/213307)
-  - [Gmail で受信したメールを Slack にも転送する - stamemo](http://stakiran.hatenablog.com/entry/2018/01/13/173034)
-  - [Adobe Acrobat Reader DC で快適に PDF を読むための設定五つ - stamemo](http://stakiran.hatenablog.com/entry/2018/05/12/175900)
-- ストレスフリーなソロ充ライフ
-  - [はてなブログのサイトマップが読み込まれないのはなぜ？検索結果が反映されないのはなぜ？カラクリがわかったので解説する - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2019/03/17/160105)
-  - [誰も教えてくれない DANCERUSH STARDOM(ダンスラ) 用語集 (2019/03/03 更新) - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/09/073300)
-  - [歴 15 年の僕が教える、ぼっちからソロ充になるための 7 の方法 - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/12/25/071200)
-
-参加レポート:
-
-- 18/07/20 [ワーク・ライフバランス社の働き方改革講演を聴講したのでまとめる - stamemo](http://stakiran.hatenablog.com/entry/2018/07/20/200843)
-- 18/11/18 [ライフハック勉強会＠渋谷編に参加してきました - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/18/090152)
-- 19/03/06 [ダイアログインザダーク「対話のある家」で遊んできました - ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/entry/2019/03/06/070100)
