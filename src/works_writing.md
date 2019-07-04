@@ -44,7 +44,7 @@ Windows をもっと便利に使いたい方、操作効率を上げて仕事を
 - 2018/07/03 [タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/)
   - タスク管理に関する各種概念、理論、ツールなどについて調べたり試したり考えたりして楽しんでいるブログ
   - マニアック度: 高
-  - 2019/07/03 更新停止中 → [タスク管理概説](https://stakiran.github.io/monolithic//monolithic/task_management.html) に移行
+  - 2019/07/03 更新停止中 → [タスク管理概説](https://stakiran.github.io/monolithic/task_management.html) に移行
 - 2018/10/27 [ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/)
   - ストレスフリーガチ勢を掲げ、ソロ充・毎日定時退社・多趣味などを主軸にした雑記ブログ
   - マニアック度: 低
