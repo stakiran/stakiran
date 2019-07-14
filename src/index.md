@@ -8,7 +8,7 @@
   <a href="https://www.amazon.co.jp/吉良野すた/e/B07JLHMBDV" target="_blank"><img src="logo/amazon.png" alt="amazon_logo" width="64" height="48"></a>
   <a href="https://twitter.com/stakiran2" target="_blank"><img src="logo/twitter.png" alt="twitter_logo" width="48" height="48"></a>
   <a href="http://profile.hatena.ne.jp/stakiran/" target="_blank"><img src="logo/hatena.svg" alt="hatena_logo" width="48" height="48"></a>
-- [制作物(プログラム)](works.md)
+- [制作物(プログラム)](works_software.md)
 - [制作物(書籍・記事)](works_writing.md)
 - <a href="contact.html">お問い合わせ</a>
 
