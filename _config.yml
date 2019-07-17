@@ -1,4 +1,6 @@
 url: https://stakiran.github.io/stakiran/
+lang: ja-JP
+title: stakiran(吉良野すた) ホームページ
 theme: jekyll-theme-modernist
 plugins:
   - jemoji
