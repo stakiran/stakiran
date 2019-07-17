@@ -24,5 +24,3 @@ title: stakiran(吉良野すた) ホームページ
 | 2017/07/29 | [Tritask](https://tritask.github.io/tritask-web/) | タスク管理 | テキストエディタでガシガシ編集する、ストレスフリーなタスク管理ツール |
 | 2017/07/09 | [intoc](https://github.com/stakiran/intoc) | テキスト | Markdown ファイルの TOC(目次) を生成するツール、GFM 対応 |
 | 2017/06/26 | [cmdmarks](https://github.com/stakiran/cmdmarks) | プログラムランチャー | コマンドプロンプト上で使えるディレクトリブックマークツール |
-
-2019 © stakiran
