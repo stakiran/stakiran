@@ -11,7 +11,7 @@ title: stakiran(吉良野すた) ホームページ
 | ---------- | ---------------- | -------- | ---------- |
 | 2019/07/13 | [alauncher](https://github.com/stakiran/alauncher) | プログラムランチャー | pushd のエイリアス pd など、自由なエイリアス作成を可能にする上級者向けツール |
 | 2019/07/10 | [statil](https://statil.hatenablog.com/) | ブログ | TIL(Today I Learned), 雑記, 備忘録 |
-| 2019/04/26 | [Amazon.co.jp： 執筆を効率化したい人のための秀丸エディタ実践入門](https://www.amazon.co.jp/dp/B07R6FTSMT) | 電子書籍 | テキストエディタ |
+| 2019/04/26 | [執筆を効率化したい人のための秀丸エディタ実践入門](https://www.amazon.co.jp/dp/B07R6FTSMT) | 電子書籍 | テキストエディタ |
 | 2019/03/10 | [todochute](https://stakiran.github.io/todochute-releases/) | タスク管理 | TaskChute と todo.txt を足して二で割ったようなタスク管理ツール |
 | 2019/02/23 | [Monolithic](https://stakiran.github.io/monolithic/) | ウェブサイト | 研究, 持論, 仕事術 |
 | 2019/01/11 | [ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/dp/B07MJW8MVD) | 電子書籍 | タスク管理 |
