@@ -1,1 +1,4 @@
+url: https://stakiran.github.io/stakiran/
 theme: jekyll-theme-modernist
+plugins:
+  - jemoji
