@@ -5,6 +5,8 @@ title: stakiran(吉良野すた) ホームページ
 
 ![avatar](assets/img/avatar_half.jpg)
 
+<a href="https://github.com/stakiran" target="_blank"><img src="assets/logo/github.png" alt="github_logo" width="48" height="48"></a> <a href="https://qiita.com/sta" target="_blank"><img src="assets/logo/qiita.png" alt="qiita_logo" width="48" height="48"></a> <a href="https://portfolio.forkwell.com/@stakiran" target="_blank"><img src="assets/logo/forkwell.svg" alt="forkwell_logo" width="96" height="48"></a> <a href="https://www.amazon.co.jp/吉良野すた/e/B07JLHMBDV" target="_blank"><img src="assets/logo/amazon.png" alt="amazon_logo" width="64" height="48"></a> <a href="https://twitter.com/stakiran2" target="_blank"><img src="assets/logo/twitter.png" alt="twitter_logo" width="48" height="48"></a> <a href="http://profile.hatena.ne.jp/stakiran/" target="_blank"><img src="assets/logo/hatena.svg" alt="hatena_logo" width="48" height="48"></a>
+
 | 開始日     | タイトルとリンク | ジャンル | キーワードや一言解説 |
 | ---------- | ---------------- | -------- | ---------- |
 | 2019/07/13 | [alauncher](https://github.com/stakiran/alauncher) | プログラムランチャー | pushd のエイリアス pd など、自由なエイリアス作成を可能にする上級者向けツール |
@@ -22,7 +24,5 @@ title: stakiran(吉良野すた) ホームページ
 | 2017/07/29 | [Tritask](https://tritask.github.io/tritask-web/) | タスク管理 | テキストエディタでガシガシ編集する、ストレスフリーなタスク管理ツール |
 | 2017/07/09 | [intoc](https://github.com/stakiran/intoc) | テキスト | Markdown ファイルの TOC(目次) を生成するツール、GFM 対応 |
 | 2017/06/26 | [cmdmarks](https://github.com/stakiran/cmdmarks) | プログラムランチャー | コマンドプロンプト上で使えるディレクトリブックマークツール |
-
-<a href="https://github.com/stakiran" target="_blank"><img src="assets/logo/github.png" alt="github_logo" width="48" height="48"></a> <a href="https://qiita.com/sta" target="_blank"><img src="assets/logo/qiita.png" alt="qiita_logo" width="48" height="48"></a> <a href="https://portfolio.forkwell.com/@stakiran" target="_blank"><img src="assets/logo/forkwell.svg" alt="forkwell_logo" width="96" height="48"></a> <a href="https://www.amazon.co.jp/吉良野すた/e/B07JLHMBDV" target="_blank"><img src="assets/logo/amazon.png" alt="amazon_logo" width="64" height="48"></a> <a href="https://twitter.com/stakiran2" target="_blank"><img src="assets/logo/twitter.png" alt="twitter_logo" width="48" height="48"></a> <a href="http://profile.hatena.ne.jp/stakiran/" target="_blank"><img src="assets/logo/hatena.svg" alt="hatena_logo" width="48" height="48"></a>
 
 2019 © stakiran
