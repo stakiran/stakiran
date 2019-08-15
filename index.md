@@ -21,4 +21,4 @@ title: stakiran(吉良野すた) ホームページ
 | タスク管理      | [ウェブサイト todochute](https://stakiran.github.io/todochute-releases/) |
 | ドキュメント    | [ウェブサイト Monolithic](https://stakiran.github.io/monolithic/) |
 
-お問い合わせは [お問い合わせページ](contact.md) からどうぞ。
+お問い合わせは [お問い合わせページ](contact.md) まで。
