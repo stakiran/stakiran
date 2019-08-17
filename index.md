@@ -14,7 +14,7 @@ title: stakiran(吉良野すた) ホームページ
 | Q&A             | [Quora @Kirano-Suta](https://jp.quora.com/profile/Kirano-Suta) | 
 | SNS             | [Twitter @stakiran2](https://twitter.com/stakiran2) |
 | ソフトウェア    | [はてなブログ stamemo](http://stakiran.hatenablog.com/) |
-| ライフスタイル  | [はてなブログ ストレスフリーなソロ充ライフ](https://stressfree-fulfilling-solo.hatenablog.com/) |
+| ライフスタイル  | [はてなブログ ガラパゴスタ](https://www.galapagosta.com/) |
 | タスク管理      | [はてなブログ タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/) |
 | タスク管理      | [ウェブサイト Tritask](https://tritask.github.io/tritask-web/) |
 | タスク管理      | [ウェブサイト todochute](https://stakiran.github.io/todochute-releases/) |
