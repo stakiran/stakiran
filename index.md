@@ -8,21 +8,7 @@ title: stakiran(吉良野すた) ホームページ
 <a href="https://github.com/stakiran"><img src="assets/logo/GitHub-Mark-32px.png"></a>
 <a href="https://twitter.com/stakiran2"><img src="assets/logo/Twitter_Social_Icon_Circle_Color.svg" width="32" height="32"></a>
 <a href="http://stakiran.hatenablog.com/"><img src="assets/logo/hatenablog-logo.svg" width="32" height="32"></a>
+<a href="http://stakiran.hatenablog.com/"><img src="assets/logo/kindle_gray.png"></a>
 
-| ジャンル        | リンク |
-| --------------  | ------ |
-| ソフトウェア    | [GitHub @stakiran](https://github.com/stakiran) |
-| ソフトウェア    | [Qiita @sta](https://qiita.com/sta) |
-| ソフトウェア    | [Forkwell @stakiran](https://portfolio.forkwell.com/@stakiran) |
-| 電子書籍        | [Amazon 吉良野すた](https://www.amazon.co.jp/%E5%90%89%E8%89%AF%E9%87%8E%E3%81%99%E3%81%9F/e/B07JLHMBDV) |
-| Q&A             | [Quora @Kirano-Suta](https://jp.quora.com/profile/Kirano-Suta) | 
-| SNS             | [Twitter @stakiran2](https://twitter.com/stakiran2) |
-| ソフトウェア    | [はてなブログ stamemo](http://stakiran.hatenablog.com/) |
-| ライフスタイル  | [はてなブログ ガラパゴスタ](https://www.galapagosta.com/) |
-| タスク管理      | [はてなブログ タスク管理に恋してる](https://ilovetaskmanagement.hatenablog.com/) |
-| タスク管理      | [ウェブサイト Tritask](https://tritask.github.io/tritask-web/) |
-| タスク管理      | [ウェブサイト todochute](https://stakiran.github.io/todochute-releases/) |
-| ドキュメント    | [ウェブサイト Monolithic](https://stakiran.github.io/monolithic/) |
-| ドキュメント    | [ウェブサイト tit - Today I Thought](https://stakiran.github.io/tit/) |
-
-お問い合わせは [お問い合わせページ](contact.md) まで。
+- [portfolio](portfolio.md)
+- [お問い合わせ](contact.md)
