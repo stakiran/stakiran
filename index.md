@@ -11,5 +11,5 @@ title: stakiran(吉良野すた) ホームページ
 <a href="https://www.amazon.co.jp/%E5%90%89%E8%89%AF%E9%87%8E%E3%81%99%E3%81%9F/e/B07JLHMBDV"><img src="assets/logo/kindle_gray.png" width="64" height="32"></a>
 <a href="https://qiita.com/sta"><img src="assets/logo/qiita.png" width="64" height="32"></a>
 
-- [portfolio](portfolio.md)
+- [その他のアカウントやウェブサイト](links.md)
 - [お問い合わせ](contact.md)

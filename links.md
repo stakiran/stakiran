@@ -1,6 +1,6 @@
 ---
 layout: default
-title: stakiran(吉良野すた) ホームページ-ポートフォリオ
+title: stakiran(吉良野すた) ホームページ-リンク
 ---
 
 | ジャンル        | リンク |
@@ -13,3 +13,5 @@ title: stakiran(吉良野すた) ホームページ-ポートフォリオ
 | ドキュメント    | [ウェブサイト tit - Today I Thought](https://stakiran.github.io/tit/) |
 | Q&A             | [Quora @Kirano-Suta](https://jp.quora.com/profile/Kirano-Suta) | 
 | 読書ログ        | [自己啓発書ログ](https://stakiran.github.io/self_development_log/) |
+
+[トップに戻る](index.md)
