@@ -35,10 +35,10 @@ title: stakiran
 ## :memo: Documents
 - [GitHub - stakiran/tit: Today I Thought](https://github.com/stakiran/tit)
 - [GitHub - stakiran/self_development_log: 自己啓発書ログ](https://github.com/stakiran/self_development_log)
-- [Monolithic | monolithic](https://stakiran.github.io/monolithic/)
-  - [タスク管理概説 | monolithic](https://stakiran.github.io/monolithic/task_management.html)
-  - [GTD | monolithic](https://stakiran.github.io/monolithic/gtd.html)
-  - [Life Programming(ライフプログラミング) | monolithic](https://stakiran.github.io/monolithic/life_programming.html)
+- [Monolithic - monolithic](https://stakiran.github.io/monolithic/)
+  - [タスク管理概説 - monolithic](https://stakiran.github.io/monolithic/task_management.html)
+  - [GTD - monolithic](https://stakiran.github.io/monolithic/gtd.html)
+  - [Life Programming(ライフプログラミング) - monolithic](https://stakiran.github.io/monolithic/life_programming.html)
 - [GitHub - stakiran/100q: ソフトウェアエンジニアに100の質問](https://github.com/stakiran/100q)
 
 ## :email: Contact
