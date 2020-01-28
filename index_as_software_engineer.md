@@ -10,7 +10,7 @@ title: stakiran
 <a href="http://stakiran.hatenablog.com/"><img src="assets/logo/hatenablog-logo.svg" width="32" height="32"></a>
 <a href="https://qiita.com/sta"><img src="assets/logo/qiita.png" width="64" height="32"></a>
 
-## :toolbox: Tools
+## :wrench: Tools
 - [Tritask - 執筆のように。プログラミングのように。テキストエディタでガシガシ編集するストレスフリーなタスク管理](https://tritask.github.io/tritask-web/)
 - [GitHub - stakiran/intoc: TOC generator for Markdown.](https://github.com/stakiran/intoc)
 - [GitHub - stakiran/alauncher: Create your alias with the single ini file for Windows.](https://github.com/stakiran/alauncher)
