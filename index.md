@@ -15,6 +15,7 @@ title: 吉良野すたホームページ
 
 | 表紙 | リンク |
 | ---- | ------ |
+| <a href="https://www.amazon.co.jp/gp/product/B07MJW8MVD/">![02_routinetask.jpg](assets/img/02_routinetask.jpg)</a> | 19/01/13<br>[「ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/gp/product/B07MJW8MVD/)<br>Keywords: タスク管理, ルーチンワーク |
 | <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 18/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
 
 ## リンク集
