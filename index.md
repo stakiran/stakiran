@@ -15,7 +15,7 @@ title: 吉良野すたホームページ
 
 | 表紙 | リンク |
 | ---- | ------ |
-| ![01_run.jpg](assets/img/01_run.jpg) | [「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/) |
+| ![01_run.jpg](assets/img/01_run.jpg) | 18/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
 
 ## リンク集
 - [stakiran(エンジニアとしての吉良野すた)はこちら](index_as_software_engineer.md)
