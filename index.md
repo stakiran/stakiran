@@ -9,9 +9,13 @@ title: 吉良野すたホームページ
 <a href="https://www.galapagosta.com/"><img src="assets/logo/hatenablog-logo.svg" width="32" height="32"></a>
 <a href="https://www.amazon.co.jp/%E5%90%89%E8%89%AF%E9%87%8E%E3%81%99%E3%81%9F/e/B07JLHMBDV"><img src="assets/logo/kindle_gray.png" width="64" height="32"></a>
 
-## 吉良野すた プロフィール
+## プロフィール
 
 ## 著書リスト
+
+| 表紙 | リンク |
+| ---- | ------ |
+| ![01_run.jpg](assets/img/01_run.jpg) | [「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/) |
 
 ## リンク集
 - [stakiran(エンジニアとしての吉良野すた)はこちら](index_as_software_engineer.md)
