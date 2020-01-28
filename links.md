@@ -1,6 +1,6 @@
 ---
 layout: default
-title: stakiran(吉良野すた) ホームページ-リンク
+title: リンク
 ---
 
 | ジャンル        | リンク |

@@ -8,37 +8,19 @@ body {
 }
 
 section h1 {
-  counter-reset: level2;
   background-color: #C6EAFA;
   color: #069;
   padding: 4px;
 }
 
 section h2 {
-  counter-reset: level3;
   border-left: 16px solid #069;
   padding-left: 0.5em;
 }
 
 section h3 {
-  counter-reset: level4;
   border-left: 8px solid #069;
   padding-left: 0.5em;
-}
-
-section  h1::before {
-  counter-increment: level1;
-  content: counter(level1) ". ";
-}
-
-section h2::before {
-  counter-increment: level2;
-  content: counter(level1) "-" counter(level2) ". ";
-}
-
-section h3::before {
-  counter-increment: level3;
-  content: counter(level1) "-" counter(level2) "-" counter(level3) ". ";
 }
 
 section > ol {
