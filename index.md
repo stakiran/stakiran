@@ -17,9 +17,9 @@ title: 吉良野すたホームページ
 | 表紙 | リンク |
 | ---- | ------ |
 | <a href="https://www.amazon.co.jp/dp/B084LV7JVV/">![04_winpc_3h.jpg](assets/img/04_winpc_3h.jpg)</a> | 2020/02/09<br>[あなたのパソコンが重い理由　～1日3時間を取り戻す方法～](https://www.amazon.co.jp/gp/product/B084LV7JVV/)<br>Keywords: Windows, 時短, 高速化 |
-| <a href="https://www.amazon.co.jp/gp/product/B07R6FTSMT/">![03_hidemaru.jpg](assets/img/03_hidemaru.jpg)</a> | 19/04/27<br>[執筆を効率化したい人のための秀丸エディタ実践入門](https://www.amazon.co.jp/gp/product/B07R6FTSMT/)<br>Keywords: 執筆の効率化, テキストエディタ, 秀丸エディタ |
-| <a href="https://www.amazon.co.jp/gp/product/B07MJW8MVD/">![02_routinetask.jpg](assets/img/02_routinetask.jpg)</a> | 19/01/13<br>[ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/gp/product/B07MJW8MVD/)<br>Keywords: タスク管理, ルーチンワーク |
-| <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 18/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
+| <a href="https://www.amazon.co.jp/gp/product/B07R6FTSMT/">![03_hidemaru.jpg](assets/img/03_hidemaru.jpg)</a> | 2019/04/27<br>[執筆を効率化したい人のための秀丸エディタ実践入門](https://www.amazon.co.jp/gp/product/B07R6FTSMT/)<br>Keywords: 執筆の効率化, テキストエディタ, 秀丸エディタ |
+| <a href="https://www.amazon.co.jp/gp/product/B07MJW8MVD/">![02_routinetask.jpg](assets/img/02_routinetask.jpg)</a> | 2019/01/13<br>[ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/gp/product/B07MJW8MVD/)<br>Keywords: タスク管理, ルーチンワーク |
+| <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 2018/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
 
 ## リンク集
 - [stakiran(エンジニアとしての吉良野すた)はこちら](index_as_software_engineer.md)
