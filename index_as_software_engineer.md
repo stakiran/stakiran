@@ -41,7 +41,7 @@ title: stakiran
 
 機密ネタが多いため詳細は（成果物含めて）提示できませんが、プライベートの GitHub をベースにした [Forkwell @stakiran](https://portfolio.forkwell.com/@stakiran) も一応つくってみました。
 
-## :monocle: Personal
+## :point_up: Personal
 - 地頭と要領は人並以下ですが、その分やり方・考え方・スタンスを工夫しています
 - ストレングス・ファインダーは次のとおりです
   - 1: 戦略性
