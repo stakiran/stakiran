@@ -9,3 +9,6 @@ https://stakiran.github.io/stakiran/
 ## how to add the link to new book
 - 画像は KDP 出版後、紹介ページから DL
 - その後、75% にリサイズ( `235 x 375` )
+
+## Logo
+- [Scrapbox ロゴ - NOTA Press Kit](https://scrapbox.io/nota-press/Scrapbox_%E3%83%AD%E3%82%B4)
