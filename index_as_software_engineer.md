@@ -36,8 +36,12 @@ title: stakiran
   - AWS CloudFormation
   - 何十回と構築することになる評価環境、一回につき 60 分を要していたが、うち前半部分の 30 分を 3 分にまで短縮
   - CloudFormation や IaC の解説も含めてドキュメント化を行い、チーム内の自動化文化と知見向上に貢献
-- 2019/12～ 事業部内 IaC 学習環境の構築・運営(xxx年)
+- 2019/12～ IaC 学習環境の構築(0.3年)
   - AWS CloudFormation, CodeCommit, Lambda, Ansible
+  - レガシーな SI 部門の学習支援のため「かんたんに IaC を試せる環境」を構築
+  - 利用者ごとに専用の環境を払い出す仕組みで、AWS と Ansible の活用により、ほぼ自動で構築可能
+  - ダブルクリックだけでログイン可能、料金過多を防ぐインスタンス電源制御、踏み台セキュリティなど諸々のハードルもクリアしており知見としても共有
+- 2020/04～ xxx
 
 機密ネタが多いため詳細は（成果物含めて）提示できませんが、プライベートの GitHub をベースにした [Forkwell @stakiran](https://portfolio.forkwell.com/@stakiran) も一応つくってみました。
 
