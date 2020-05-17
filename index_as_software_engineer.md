@@ -88,13 +88,11 @@ title: stakiran
 - [GitHub - stakiran/qpmenu: Quick file access with popup menu for Windows.](https://github.com/stakiran/qpmenu)
 
 ## :memo: Documents
-- [GitHub - stakiran/tit: Today I Thought](https://github.com/stakiran/tit)
-- [GitHub - stakiran/self_development_log: 自己啓発書ログ](https://github.com/stakiran/self_development_log)
-- [Monolithic - monolithic](https://stakiran.github.io/monolithic/)
-  - [タスク管理概説 - monolithic](https://stakiran.github.io/monolithic/task_management.html)
-  - [GTD - monolithic](https://stakiran.github.io/monolithic/gtd.html)
-  - [Life Programming(ライフプログラミング) - monolithic](https://stakiran.github.io/monolithic/life_programming.html)
-- [GitHub - stakiran/100q: ソフトウェアエンジニアに100の質問](https://github.com/stakiran/100q)
+- [リーンスタートアップまとめ - Scrapbox](https://scrapbox.io/sta-leanstartup/)
+- [GTDを噛み砕く](https://stakiran.github.io/gtd_kamikudaku/)
+- [タスク管理概説 - monolithic](https://stakiran.github.io/monolithic/task_management.html)
+- [ベアプログラミングが無理ならサイレントベアプログラミングを検討しよう - Qiita](https://qiita.com/sta/items/6661cfcb57cfefa9a36a)
+- [GitHub でテキスト管理を行う GaaTS(GitHub as a Text Storage) について - Qiita](https://qiita.com/sta/items/e85dc381774acc9ac3c2)
 
 ## :email: Contact
 - [お問い合わせ](contact.md)
