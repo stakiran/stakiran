@@ -9,6 +9,7 @@ title: stakiran
 <a href="https://twitter.com/stakiran2"><img src="assets/logo/Twitter_Social_Icon_Circle_Color.svg" width="32" height="32"></a>
 <a href="http://stakiran.hatenablog.com/"><img src="assets/logo/hatenablog-logo.svg" width="32" height="32"></a>
 <a href="https://qiita.com/sta"><img src="assets/logo/qiita.png" width="64" height="32"></a>
+<a href="https://portfolio.forkwell.com/@stakiran"><img src="assets/logo/forkwell_square.png" width="32" height="32"></a>
 
 ## :muscle: Career
 新卒で大手のソフトウェア会社に入社して以来、エンジニアとして色んな仕事や部署を渡り歩いている。
@@ -45,10 +46,7 @@ title: stakiran
   - 新規事業について右も左もわからない事業部に対し、以下の活動にて方向性を示した
   - リーンスタートアップや顧客開発モデルなどの書籍を読み込み、[Scrapbox](https://scrapbox.io/sta-leanstartup/) や GitLab Wiki で整備
   - 同上の理論と自社の事情も考慮した、自社用新規事業プロセスのたたき台を作成
-  - 今回の検討過程をすべて GitLab に残し、誰でも閲覧できるように
-
-
-機密ネタが多いため詳細は（成果物含めて）提示できませんが、プライベートの GitHub をベースにした [Forkwell @stakiran](https://portfolio.forkwell.com/@stakiran) も一応つくってみました。
+  - 今回の検討過程をすべて GitLab に残し、誰でも閲覧できるように整備
 
 ## :point_up: Personal
 - 地頭と要領は人並以下ですが、その分やり方・考え方・スタンスを工夫しています
@@ -74,6 +72,7 @@ title: stakiran
 - [Tritask - 執筆のように。プログラミングのように。テキストエディタでガシガシ編集するストレスフリーなタスク管理](https://tritask.github.io/tritask-web/)
 - [GitHub - stakiran/intoc: TOC generator for Markdown.](https://github.com/stakiran/intoc)
 - [GitHub - stakiran/alauncher: Create your alias with the single ini file for Windows.](https://github.com/stakiran/alauncher)
+- [GitHub - stakiran/incl: A simple incremental searchable launcher for Windows.](https://github.com/stakiran/incl)
 
 ## :globe_with_meridians: Webapp
 - [GitHub - stakiran/3card: Idea creation tool with 3 cards.](https://github.com/stakiran/3card)
@@ -93,9 +92,9 @@ title: stakiran
 - [GitHub - stakiran/qpmenu: Quick file access with popup menu for Windows.](https://github.com/stakiran/qpmenu)
 
 ## :memo: Documents
+- [stakiran/til: Today I Learned.](https://github.com/stakiran/til)
 - [リーンスタートアップまとめ - Scrapbox](https://scrapbox.io/sta-leanstartup/)
 - [GTDを噛み砕く](https://stakiran.github.io/gtd_kamikudaku/)
-- [タスク管理概説 - monolithic](https://stakiran.github.io/monolithic/task_management.html)
 - [ベアプログラミングが無理ならサイレントベアプログラミングを検討しよう - Qiita](https://qiita.com/sta/items/6661cfcb57cfefa9a36a)
 - [GitHub でテキスト管理を行う GaaTS(GitHub as a Text Storage) について - Qiita](https://qiita.com/sta/items/e85dc381774acc9ac3c2)
 

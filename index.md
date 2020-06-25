@@ -10,7 +10,9 @@ title: 吉良野すたホームページ
 <a href="https://www.amazon.co.jp/%E5%90%89%E8%89%AF%E9%87%8E%E3%81%99%E3%81%9F/e/B07JLHMBDV"><img src="assets/logo/kindle_gray.png" width="64" height="32"></a>
 
 ## プロフィール
-1988 年、広島県生まれ。大手のソフトウェア企業に勤める傍ら、知的生産や自己管理を探求している。座右の銘は「ストレスフリー」と「ベストエフォート」。
+1988 年、広島県生まれ。大手のソフトウェア企業に勤める傍ら、知的生産や自己管理の技術を探求している。座右の銘は「ストレスフリー」と「ベストエフォート」。
+
+[stakiran(エンジニアとしての吉良野すた)はこちら](index_as_software_engineer.md)
 
 ## 著書リスト
 
@@ -24,5 +26,4 @@ title: 吉良野すたホームページ
 | <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 2018/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
 
 ## リンク集
-- [stakiran(エンジニアとしての吉良野すた)はこちら](index_as_software_engineer.md)
 - [お問い合わせ](contact.md)
