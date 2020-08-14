@@ -6,7 +6,6 @@ title: stakiran
 ![avatar](assets/img/avatar_half.jpg)
 
 <a href="https://github.com/stakiran"><img src="assets/logo/GitHub-Mark-32px.png"></a>
-<a href="https://twitter.com/stakiran2"><img src="assets/logo/Twitter_Social_Icon_Circle_Color.svg" width="32" height="32"></a>
 <a href="http://stakiran.hatenablog.com/"><img src="assets/logo/hatenablog-logo.svg" width="32" height="32"></a>
 <a href="https://qiita.com/sta"><img src="assets/logo/qiita.png" width="64" height="32"></a>
 <a href="https://portfolio.forkwell.com/@stakiran"><img src="assets/logo/forkwell_square.png" width="32" height="32"></a>
