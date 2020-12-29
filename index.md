@@ -38,3 +38,4 @@ title: 吉良野すたホームページ
 強いのは「戦略的思考力(考えたい)」「影響力(影響を与えたい)」です。逆に「人間関係構築力(対人関係を築きたい)」「実行力(物事を成し遂げたい)」は得意としません。
 
 ## :email: [お問い合わせ](contact.md)
+<strike><a href="https://twitter.com/stakiran2" target="_blank">Twitter(@stakiran2)</a> も可能です</strike>(2020/08/15) Twitter は廃止しました。
