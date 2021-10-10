@@ -26,5 +26,6 @@ title: 吉良野すたホームページ
 | <a href="https://www.amazon.co.jp/gp/product/B07MJW8MVD/">![02_routinetask.jpg](assets/img/02_routinetask.jpg)</a> | 2019/01/13<br>[ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/gp/product/B07MJW8MVD/)<br>Keywords: タスク管理, ルーチンワーク |
 | <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 2018/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
 
-## :email: [お問い合わせ](contact.md)
-<strike><a href="https://twitter.com/stakiran2" target="_blank">Twitter(@stakiran2)</a> も可能です</strike>(2020/08/15) Twitter は廃止しました。
+## :email: お問い合わせ
+- Twitter: [@stakiran2](https://twitter.com/stakiran2)
+- その他の手段については [お問い合わせ - stakiran研究所](https://scrapbox.io/sta/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B) をご覧ください
