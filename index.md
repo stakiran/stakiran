@@ -26,14 +26,5 @@ title: 吉良野すたホームページ
 | <a href="https://www.amazon.co.jp/gp/product/B07MJW8MVD/">![02_routinetask.jpg](assets/img/02_routinetask.jpg)</a> | 2019/01/13<br>[ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/gp/product/B07MJW8MVD/)<br>Keywords: タスク管理, ルーチンワーク |
 | <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 2018/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
 
-## :point_up: ストレングスファインダー
-- 1: 戦略性
-- 2: 指令性
-- 3: 自我
-- 4: 内省
-- 5: 収集心
-
-強いのは「戦略的思考力(考えたい)」「影響力(影響を与えたい)」です。逆に「人間関係構築力(対人関係を築きたい)」「実行力(物事を成し遂げたい)」は得意としません。
-
 ## :email: [お問い合わせ](contact.md)
 <strike><a href="https://twitter.com/stakiran2" target="_blank">Twitter(@stakiran2)</a> も可能です</strike>(2020/08/15) Twitter は廃止しました。
