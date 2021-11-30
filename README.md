@@ -13,5 +13,8 @@
     - https://github.com/stakiran/intoc
     - https://github.com/stakiran/alauncher
 
+<!-- heavy often, so invalid
 # Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=stakiran)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
