@@ -18,7 +18,7 @@ title: 吉良野すたホームページ
 ## :book: 著書リスト
 | 表紙 | リンク |
 | ---- | ------ |
-| <a href="https://www.amazon.co.jp/gp/product/B09YLFQZ29">![15_scrapbox.jpg](assets/img/15_scrapbox.jpg)</a> | 2022/04/21<br>[Scrapboxing(スクラップボクシング) ](https://www.amazon.co.jp/gp/product/B09YLFQZ29)<br>Keywords: Scrapbox, コミュニケーションパターン |
+| <a href="https://www.amazon.co.jp/gp/product/B09YLFQZ29">![15_scrapbox.jpg](assets/img/15_scrapbox.jpg)</a> | 2022/04/21<br>[Scrapboxing(スクラップボクシング)](https://www.amazon.co.jp/gp/product/B09YLFQZ29)<br>Keywords: Scrapbox, コミュニケーションパターン |
 | <a href="https://www.amazon.co.jp/dp/B086WR1YDZ">![06_minimalismc.jpg](assets/img/06_minimalism.jpg)</a> | 2020/04/09<br>[ミニマリズムの教科書](https://www.amazon.co.jp/dp/B086WR1YDZ)<br>Keywords: ミニマリズム, ミニマリスト |
 | <a href="https://stakiran.github.io/gtd_kamikudaku/">![05_gtd_onlinedoc.jpg](assets/img/05_gtd_onlinedoc.jpg)</a> | 2020/03/15<br>[GTDを噛み砕く](https://stakiran.github.io/gtd_kamikudaku/)<br>Keywords: GTD, オンラインドキュメント |
 | <a href="https://www.amazon.co.jp/dp/B084LV7JVV/">![04_winpc_3h.jpg](assets/img/04_winpc_3h.jpg)</a> | 2020/02/09<br>[あなたのパソコンが重い理由　～1日3時間を取り戻す方法～](https://www.amazon.co.jp/gp/product/B084LV7JVV/)<br>Keywords: Windows, 時短, 高速化 |
