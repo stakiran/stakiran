@@ -16,6 +16,7 @@ title: 吉良野すたホームページ
 1988 年、広島県生まれ。大手のソフトウェア企業に勤める傍ら、「知的生産や自己管理の技術」や「働き方の改善・向上」を探求している。
 
 ## :book: 著書リスト
+
 | 表紙 | リンク |
 | ---- | ------ |
 | <a href="https://www.amazon.co.jp/gp/product/B09YLFQZ29">![15_scrapbox.jpg](assets/img/15_scrapbox.jpg)</a> | 2022/04/21<br>[Scrapboxing(スクラップボクシング)](https://www.amazon.co.jp/gp/product/B09YLFQZ29)<br>Keywords: Scrapbox, コミュニケーションパターン |
