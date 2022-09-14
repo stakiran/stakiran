@@ -1,3 +1,7 @@
+2022/09/14 16:39:10、もう更新してないので gomi へ
+
+***
+
 readme.md は special repository として使うのでこっちに待避。
 
 # stakiran
