@@ -12,7 +12,7 @@ title: 吉良野すたホームページ
 <a href="https://portfolio.forkwell.com/@stakiran"><img src="assets/logo/forkwell_square.png" width="32" height="32"></a>
 
 ## プロフィール
-1988 年、広島県生まれ。大手のソフトウェア企業に勤める傍ら、「知的生産や自己管理の技術」や「働き方の改善・向上」を探求している。
+1988 年、広島県生まれ。大手のソフトウェア企業に勤める傍ら、「知的生産の技術」や「働き方の改善・向上」を探求している。
 
 ## :book: 著書リスト
 
@@ -28,4 +28,3 @@ title: 吉良野すたホームページ
 
 ## :email: お問い合わせ
 - Twitter: [@stakiran2](https://twitter.com/stakiran2)
-- その他の手段については [お問い合わせ - stakiran研究所](https://scrapbox.io/sta/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B) をご覧ください
