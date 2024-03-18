@@ -27,3 +27,4 @@ title: 吉良野すたホームページ
 
 ## :email: お問い合わせ
 - Twitter: [@stakiran2](https://twitter.com/stakiran2)
+- メール: [Googleフォーム](https://forms.gle/GLNjBNPPLqHgQNZm7)
