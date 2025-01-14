@@ -12,9 +12,6 @@ title: 吉良野すたホームページ
 <a href="https://qiita.com/sta"><img src="assets/logo/qiita.png" width="64" height="32"></a>
 <a href="https://zenn.dev/sta"><img src="assets/logo/zenn.png" width="64" height="32"></a>
 
-## プロフィール
-1988 年、広島県生まれ。大手のソフトウェア企業に勤める傍ら、「知的生産の技術」や「働き方の改善・向上」を探求している。
-
 ## :book: 著書リスト
 
 | 表紙 | リンク |
