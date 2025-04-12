@@ -1,2 +1,2 @@
 # stakiran
-Website: https://stakiran.github.io/stakiran/
+https://stakiran.github.io/stakiran/
