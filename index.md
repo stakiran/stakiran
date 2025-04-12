@@ -19,6 +19,7 @@ title: 吉良野すたホームページ
 | <a href="https://zenn.dev/sta/books/remotism-book">![remotism.png](assets/img/remotism.png)</a> | 2025/03/24<br>[Remotism](https://zenn.dev/sta/books/remotism-book)<br>Keywords: リモートワーク, オンラインドキュメント |
 | <a href="https://zenn.dev/sta/books/taskmanagement-kamikudaku">![taskmanagement_kamikudaku.png](assets/img/taskmanagement_kamikudaku.png)</a> | 2024/09/11<br>[タスク管理を噛み砕く](https://zenn.dev/sta/books/taskmanagement-kamikudaku)<br>Keywords: タスク管理, オンラインドキュメント |
 | <a href="https://zenn.dev/sta/books/sbom-kamikudaku">![sbom_kamikudaku.png](assets/img/sbom_kamikudaku.png)</a> | 2024/05/29<br>[SBOMを噛み砕く](https://zenn.dev/sta/books/sbom-kamikudaku)<br>Keywords: SBOM, オンラインドキュメント |
+| <a href="https://zenn.dev/sta/books/workware-engineering">![wwe.png](assets/img/wwe.png)</a> | 2024/04/02<br>[Workware Engineering](https://zenn.dev/sta/books/workware-engineering)<br>Keywords: 概念的道具, メタワーク |
 | <a href="https://tms1.vercel.app/">![tms1.jpg](assets/img/tms1.jpg)</a> | 2022/12/17<br>[とあるタスク管理マニアの結論](https://tms1.vercel.app/)<br>Keywords: タスク管理, 箇条書きとリンク, オンラインドキュメント |
 | <a href="https://www.amazon.co.jp/gp/product/B09YLFQZ29">![15_scrapbox.jpg](assets/img/15_scrapbox.jpg)</a> | 2022/04/21<br>[Scrapboxing(スクラップボクシング)](https://www.amazon.co.jp/gp/product/B09YLFQZ29)<br>Keywords: Scrapbox, コミュニケーションパターン |
 | <a href="https://www.amazon.co.jp/dp/B086WR1YDZ">![06_minimalismc.jpg](assets/img/06_minimalism.jpg)</a> | 2020/04/09<br>[ミニマリズムの教科書](https://www.amazon.co.jp/dp/B086WR1YDZ)<br>Keywords: ミニマリズム, ミニマリスト |
