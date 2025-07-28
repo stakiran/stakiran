@@ -12,6 +12,10 @@ title: 吉良野すたホームページ
 <a href="https://qiita.com/sta"><img src="assets/logo/qiita.png" width="64" height="32"></a>
 <a href="https://zenn.dev/sta"><img src="assets/logo/zenn.png" width="64" height="32"></a>
 
+## :email: お問い合わせ
+- Twitter: [@stakiran2](https://twitter.com/stakiran2)
+- Mail: [お問い合わせフォーム](https://forms.gle/VPnemhHTKLsGnyQc8)
+
 ## :book: 著書リスト
 
 | 表紙 | リンク |
@@ -27,7 +31,3 @@ title: 吉良野すたホームページ
 | <a href="https://www.amazon.co.jp/gp/product/B07R6FTSMT/">![03_hidemaru.jpg](assets/img/03_hidemaru.jpg)</a> | 2019/04/27<br>[執筆を効率化したい人のための秀丸エディタ実践入門](https://www.amazon.co.jp/gp/product/B07R6FTSMT/)<br>Keywords: 執筆の効率化, テキストエディタ, 秀丸エディタ |
 | <a href="https://www.amazon.co.jp/gp/product/B07MJW8MVD/">![02_routinetask.jpg](assets/img/02_routinetask.jpg)</a> | 2019/01/13<br>[ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/gp/product/B07MJW8MVD/)<br>Keywords: タスク管理, ルーチンワーク |
 | <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 2018/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
-
-## :email: お問い合わせ
-- Twitter: [@stakiran2](https://twitter.com/stakiran2)
-- Mail: [お問い合わせフォーム](https://forms.gle/VPnemhHTKLsGnyQc8)
