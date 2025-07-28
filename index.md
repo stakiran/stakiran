@@ -13,7 +13,7 @@ title: 吉良野すたホームページ
 <a href="https://zenn.dev/sta"><img src="assets/logo/zenn.png" width="64" height="32"></a>
 
 ## :email: お問い合わせ
-- Twitter: [@stakiran2](https://twitter.com/stakiran2)
+- X: [@stakiran2](https://twitter.com/stakiran2)
 - Mail: [お問い合わせフォーム](https://forms.gle/VPnemhHTKLsGnyQc8)
 
 ## :book: 著書リスト
