@@ -14,7 +14,6 @@ title: 吉良野すたホームページ
 
 ## :email: お問い合わせ
 - X: [@stakiran2](https://x.com/stakiran2)
-- Mail: [お問い合わせフォーム](https://forms.gle/VPnemhHTKLsGnyQc8)
 
 ## :book: 著書リスト
 
