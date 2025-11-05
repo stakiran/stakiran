@@ -19,6 +19,7 @@ title: 吉良野すたホームページ
 
 | 表紙 | リンク |
 | ---- | ------ |
+| <a href="https://www.amazon.co.jp/dp/B0FX39RLWS">![quietlife.png](assets/img/quietlife.jpg)</a> | 2025/10/20<br>[Quiet Life ～静かな暮らしを手に入れる～](https://www.amazon.co.jp/dp/B0FX39RLWS)<br>Keywords: 静かな暮らし, 静かな退職, ミニマリズム, 独身, 孤独 |
 | <a href="https://stakiran.github.io/asdm_public/">![asdm.png](assets/img/asdm.png)</a> | 2025/08/25<br>[ASDM ～ASD部下を持つ管理職のためのマネジメントガイド～](https://stakiran.github.io/asdm_public/)<br>Keywords: ASD, マネジメント, ニューロ・ダイバーシティ |
 | <a href="https://zenn.dev/sta/books/remotism-book">![remotism.png](assets/img/remotism.png)</a> | 2025/03/24<br>[Remotism](https://zenn.dev/sta/books/remotism-book)<br>Keywords: リモートワーク, 脱コミュニケーション |
 | <a href="https://zenn.dev/sta/books/taskmanagement-kamikudaku">![taskmanagement_kamikudaku.png](assets/img/taskmanagement_kamikudaku.png)</a> | 2024/09/11<br>[タスク管理を噛み砕く](https://zenn.dev/sta/books/taskmanagement-kamikudaku)<br>Keywords: タスク管理 |
