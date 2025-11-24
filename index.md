@@ -11,6 +11,7 @@ title: 吉良野すたホームページ
 <a href="http://stakiran.hatenablog.com/"><img src="assets/logo/hatenablog-logo.svg" width="32" height="32"></a>
 <a href="https://qiita.com/sta"><img src="assets/logo/qiita.png" width="64" height="32"></a>
 <a href="https://zenn.dev/sta"><img src="assets/logo/zenn.png" width="64" height="32"></a>
+<a href="https://dev.to/stakiran"><img src="assets/logo/devcommunity.png" width="64" height="32"></a>
 
 ## :email: お問い合わせ
 - X: [@stakiran2](https://x.com/stakiran2)
