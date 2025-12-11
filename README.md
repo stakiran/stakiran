@@ -22,7 +22,7 @@ Japanese Knowledge Architect
     - Development of techniques for intellectual production, organized as a wiki (Cosense) exceeding 300 pages.
     - [Japanese](https://scrapbox.io/neoterizer/)
 - Technical Blog
-    - Over 70 articles related to software engineering and soft skills, with more than 1 million page views and over 600 likes.
+    - Over 70 articles related to software engineering and soft skills, with more than 1 million page views and over 6000 likes.
     - [Qiita](https://qiita.com/sta)
     - [Zenn](https://zenn.dev/sta)
 
