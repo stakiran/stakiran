@@ -1,5 +1,5 @@
 # stakiran
-DevRel / DevEx / ソフトスキル・エンジニアリング / ナレッジ・アーキテクト
+DevEx / DevRel / [ソフトスキル・エンジニアリング](https://github.com/stakiran/soft-skills-engineering)
 
 ## プロジェクト(英語情報には👉️を付けています)
 - DEV Community
