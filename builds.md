@@ -5,6 +5,7 @@ Software & Concepts
 - [stakiran/cb2ai: A CLI tool that sends clipboard content to the OpenAI API and opens the result as a text file.](https://github.com/stakiran/cb2ai)
 - [stakiran/recture: 矩形選択した範囲をキャプチャするだけのシンプルなツール implemented by python.](https://github.com/stakiran/recture)
 - [stakiran/cc: Clear Clipboard](https://github.com/stakiran/cc)
+- [stakiran/coppai: A simple snippet copy tool for managing and pasting prompts and templates.](https://github.com/stakiran/coppai)
 
 ## Concepts
 - [stakiran/collaboration-modules: Conceptual tools for flexible collaboration](https://github.com/stakiran/collaboration-modules)
