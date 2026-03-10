@@ -7,6 +7,8 @@ Software & Concepts
 - [stakiran/cc: Clear Clipboard](https://github.com/stakiran/cc)
 
 ## Concepts
+- [stakiran/collaboration-modules: Conceptual tools for flexible collaboration](https://github.com/stakiran/collaboration-modules)
+- [stakiran/solo-work-modules: Conceptual toolkit for solo workers — frameworks for task management, intellectual production, and personal productivity, designed for AI-assisted exploration.](https://github.com/stakiran/solo-work-modules)
 - [stakiran/12-factor-fasd: 12 Factor FASD(Fully Autonomous Software Development)](https://github.com/stakiran/12-factor-fasd)
 - [stakiran/toxic-behavior-patterns: Identify and categorize “toxic behaviors” or “types of people” that threaten team members’ well-being, so we can be prepared.](https://github.com/stakiran/toxic-behavior-patterns)
 - [stakiran/awayfromABCD: Increase the granularity of “away-from-keyboard” status to enable more fine‑grained away states.](https://github.com/stakiran/awayfromABCD)
@@ -22,3 +24,4 @@ Software & Concepts
 - [stakiran/1on1-kit: Let's set up the 1-on-1 you'd like.](https://github.com/stakiran/1on1-kit)
 - [stakiran/dwmy_review: Daily, Weekly, Monthly, Yearly Review System.](https://github.com/stakiran/dwmy_review)
 - [stakiran/ccart: Conceptual Counter Art.](https://github.com/stakiran/ccart)
+- [stakiran/soft-skills-engineering: To engineer soft skills.](https://github.com/stakiran/soft-skills-engineering)
