@@ -74,7 +74,7 @@ def main():
     official_prompt = prompt_template.replace('%body%', body)
 
     # OpenAI API で英訳を取得
-    translation = request_to_model('gpt-4o', official_prompt)
+    translation = request_to_model('gpt-5.4', official_prompt)
 
     # 後処理
     translation = translation.replace("’", "'") # プロンプトでも直らんので荒療治

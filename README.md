@@ -1,4 +1,4 @@
-- [Briefing](briefing.md)
+- Briefing: [one pager self introduction](briefing.md)
 - Blog: <https://scrapbox.io/stao/>
 - Books: <https://stakiran.github.io/stakiran/>
 - Brands: [ADEDR(Ajile/DexEx/DevRel)](adedr_profile/README.md)
