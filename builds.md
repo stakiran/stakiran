@@ -2,6 +2,7 @@
 Software & Concepts
 
 ## Software
+- [stakiran/cb2gist: A CLI tool that creates a public GitHub Gist from clipboard contents and opens it in your browser.](https://github.com/stakiran/cb2gist)
 - [stakiran/jisui: A personal screen capture + OCR assist tool.](https://github.com/stakiran/jisui)
 - [stakiran/cb2ai: A CLI tool that sends clipboard content to the OpenAI API and opens the result as a text file.](https://github.com/stakiran/cb2ai)
 - [stakiran/recture: A simple tool implemented in Python that only captures a rectangular selected area.](https://github.com/stakiran/recture)
