@@ -1,7 +1,7 @@
 - Briefing: [ONE PAGER SELF INTRODUCTION](briefing.md)
 - Blog: <https://scrapbox.io/stao/>
 - Books: <https://stakiran.github.io/stakiran/>
-- Brands: [ADEDR(Ajile/DexEx/DevRel)](adedr_profile/README.md), [BTNE(Building The Neuro Era)](building_the_neuro_era\README.md)
+- Brands: [ADEDR(Ajile/DexEx/DevRel)](adedr_profile/README.md), [BTNE(Building The Neuro Era)](building_the_neuro_era/README.md)
 - Builds: [Software & Concepts](builds.md)
 
 [Contact](https://scrapbox.io/stao/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)
