@@ -2,6 +2,7 @@
 Software & Concepts
 
 ## Software
+- [stakiran/scbdown: A hybrid markup format bridging Scrapbox and Markdown.](https://github.com/stakiran/scbdown)
 - [stakiran/cb2gist: A CLI tool that creates a public GitHub Gist from clipboard contents and opens it in your browser.](https://github.com/stakiran/cb2gist)
 - [stakiran/jisui: A personal screen capture + OCR assist tool.](https://github.com/stakiran/jisui)
 - [stakiran/cb2ai: A CLI tool that sends clipboard content to the OpenAI API and opens the result as a text file.](https://github.com/stakiran/cb2ai)
@@ -10,6 +11,7 @@ Software & Concepts
 - [stakiran/coppai: A simple snippet copy tool for managing and pasting prompts and templates.](https://github.com/stakiran/coppai)
 
 ## Concepts
+- [stakiran/gists: Static site generator for my GitHub Gists](https://github.com/stakiran/gists)
 - [stakiran/workhack2.0: Convert the note data for Work Techniques 2.0 into Markdown, for use by an AI agent.](https://github.com/stakiran/workhack2.0)
 - [stakiran/collaboration-modules: Conceptual tools for flexible collaboration](https://github.com/stakiran/collaboration-modules)
 - [stakiran/solo-work-modules: Conceptual toolkit for solo workers — frameworks for task management, intellectual production, and personal productivity, designed for AI-assisted exploration.](https://github.com/stakiran/solo-work-modules)
