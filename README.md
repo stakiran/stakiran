@@ -1,4 +1,4 @@
-- Briefing: [one pager self introduction](briefing.md)
+- Briefing: [ONE PAGER SELF INTRODUCTION](briefing.md)
 - Blog: <https://scrapbox.io/stao/>
 - Books: <https://stakiran.github.io/stakiran/>
 - Brands: [ADEDR(Ajile/DexEx/DevRel)](adedr_profile/README.md), [BTNE(Building The Neuro Era)](building_the_neuro_era\README.md)
