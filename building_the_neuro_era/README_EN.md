@@ -1,4 +1,4 @@
-# One-Page Profile [Japanese](briefing.md) | [English](briefing_EN.md)
+# One-Page Profile [Japanese](README.md) | [English](README_EN.md)
 I engineer individuals and organizations through skills in verbalization, structuring, and information dissemination.
 
 ## Skills
@@ -18,3 +18,14 @@ I engineer individuals and organizations through skills in verbalization, struct
     - Recent work:
         - [Collaboration Modules](https://github.com/stakiran/collaboration-modules): I created a set of conceptual tools designed for use with AI agents
         - I published [12 Factor FASD (Fully Autonomous Software Development)](https://stakiran.github.io/12-factor-fasd/)
+
+## Vision
+**Building The Neuro Era**
+
+I have built my career as a software engineer, systems engineer, and infrastructure engineer, but as a person with ASD, I have struggled with interpersonal relationships and adapting to organizations[^1]. Precisely because of that, I have responded by understanding people, organizations, and society, then verbalizing and structuring them, and ultimately reducing them to engineering.
+
+Today is a VUCA era, with higher expectations around remote work and diversity, while generative AI is also on the rise. In such a difficult age, I believe that a perspective for engineering how people are, how they think, and how they work is essential, and I believe I am exactly the kind of person who can contribute because I have cultivated that perspective.
+
+If we can realize a richer form of diversity in this way, then neurodivergent people, neurotypical people, and everyone else will be able to express themselves authentically while also coexisting.
+
+[^1]: I have distilled some of these experiences into documentation: [1](https://stakiran.github.io/middle-asd-survival-guide/) [2](https://stakiran.github.io/asdm_public/)

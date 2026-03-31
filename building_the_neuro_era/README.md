@@ -1,4 +1,4 @@
-# 1ページ自己紹介 [Japanese](briefing.md) | [English](briefing_EN.md)
+# 1ページ自己紹介 [Japanese](README.md) | [English](README_EN.md)
 言語化と構造化と情報発信のスキルで、個人や組織をエンジニアリングします。
 
 ## スキル
@@ -18,3 +18,14 @@
     - 最近の作品:
         - [Collaboration Modules](https://github.com/stakiran/collaboration-modules): AIエージェント利用前提の概念的道具集をつくりました
         - [12 Factor FASD(Fully Autonomous Software Development)](https://stakiran.github.io/12-factor-fasd/) を提供しました
+
+## ビジョン
+**Building The Neuro Era ～ニューロの時代をつくる～**
+
+私はソフトウェアエンジニア、システムエンジニア、インフラエンジニアといったキャリアを歩んできましたが、ASD 当事者として対人関係と組織への適応に苦しんできました[^1]。だからこそ人や組織や社会を理解し、言語化し、構造化することで、エンジニアリングに帰着させて対処してきました。
+
+現代は VUCA であり、リモートや多様性など水準も上がり、生成 AI も台頭しています。こんな難しい時代だからこそ、人のあり方・考え方・やり方をエンジニアリングする視座が重要だと考えており、まさに培ってきた私こそ力になれると信じています。
+
+そうして豊かな多様性を実現できれば、ニューロダイバージェントも、ニューロティピカルも、誰もが自分らしく発揮し、かつ共存もできるようになると考えます。
+
+[^1]: 一部はドキュメントとして昇華しています [1](https://stakiran.github.io/middle-asd-survival-guide/) [2](https://stakiran.github.io/asdm_public/)
