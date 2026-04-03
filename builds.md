@@ -1,5 +1,4 @@
 # Builds
-Software & Concepts
 
 ## Software
 - [stakiran/scbdown: A hybrid markup format bridging Scrapbox and Markdown.](https://github.com/stakiran/scbdown)
@@ -31,3 +30,7 @@ Software & Concepts
 - [stakiran/dwmy_review: Daily, Weekly, Monthly, Yearly Review System.](https://github.com/stakiran/dwmy_review)
 - [stakiran/ccart: Conceptual Counter Art](https://github.com/stakiran/ccart)
 - [stakiran/soft-skills-engineering: To engineer soft skills.](https://github.com/stakiran/soft-skills-engineering)
+
+## Books
+- [stakiran/sbom_kamikudaku: An online book that breaks down SBOM (Software Bill of Materials) — covering fundamentals, formats (SPDX/CycloneDX), tooling, vulnerability management, and practical adoption.](https://github.com/stakiran/sbom_kamikudaku)
+- [stakiran/taskmanagement-kamikudaku: A comprehensive online book on task management — covering personal/partner/project scopes, strategies, tools, and practical approaches to building your own system.](https://github.com/stakiran/taskmanagement-kamikudaku)
