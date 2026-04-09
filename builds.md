@@ -1,6 +1,8 @@
 # Builds
 
 ## Software
+- [stakiran/eye-rest-reminder: A red border flashes across your screen so you don't forget to blink.](https://github.com/stakiran/eye-rest-reminder)
+- [stakiran/github-trend-summarizer: Scrapes GitHub Trending and generates per-repo summaries using Claude Code](https://github.com/stakiran/github-trend-summarizer)
 - [stakiran/scbdown: A hybrid markup format bridging Scrapbox and Markdown.](https://github.com/stakiran/scbdown)
 - [stakiran/cb2gist: A CLI tool that creates a public GitHub Gist from clipboard contents and opens it in your browser.](https://github.com/stakiran/cb2gist)
 - [stakiran/jisui: A personal screen capture + OCR assist tool.](https://github.com/stakiran/jisui)
@@ -10,6 +12,7 @@
 - [stakiran/coppai: A simple snippet copy tool for managing and pasting prompts and templates.](https://github.com/stakiran/coppai)
 
 ## Concepts
+- [stakiran/my.md: Add `.claude/rules/my.md` to `.gitignore`.](https://github.com/stakiran/my.md)
 - [stakiran/gists: Static site generator for my GitHub Gists](https://github.com/stakiran/gists)
 - [stakiran/workhack2.0: Convert the note data for Work Techniques 2.0 into Markdown, for use by an AI agent.](https://github.com/stakiran/workhack2.0)
 - [stakiran/collaboration-modules: Conceptual tools for flexible collaboration](https://github.com/stakiran/collaboration-modules)
