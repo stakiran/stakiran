@@ -37,5 +37,9 @@
 - [stakiran/soft-skills-engineering: To engineer soft skills.](https://github.com/stakiran/soft-skills-engineering)
 
 ## Books
+- [stakiran/asdm_public: A management guide for managers supporting autistic team members.](https://github.com/stakiran/asdm_public)
+- [stakiran/remotism: Make remote the default. A book on "Default Remote" — the next work paradigm after the office.](https://github.com/stakiran/remotism)
 - [stakiran/sbom_kamikudaku: An online book that breaks down SBOM (Software Bill of Materials) — covering fundamentals, formats (SPDX/CycloneDX), tooling, vulnerability management, and practical adoption.](https://github.com/stakiran/sbom_kamikudaku)
 - [stakiran/taskmanagement-kamikudaku: A comprehensive online book on task management — covering personal/partner/project scopes, strategies, tools, and practical approaches to building your own system.](https://github.com/stakiran/taskmanagement-kamikudaku)
+- [stakiran/workware_engineering: A framework for creating and using "workware": named, conceptual tools for work. Enables casual validation, solo work, and breaking past mental/process limits.](https://github.com/stakiran/workware_engineering)
+- [stakiran/tms1: An online book on task management, written wiki-style.](https://github.com/stakiran/tms1)
