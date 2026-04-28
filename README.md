@@ -2,4 +2,4 @@
 
 - Blog: <https://scrapbox.io/stao/>
 - Books: [GitHub](index.md) or [Website](https://stakiran.github.io/stakiran/)
-- Builds: [Software, Concepts & Books](builds.md)
+- Builds: [Software, Concepts & Docs](builds.md)
