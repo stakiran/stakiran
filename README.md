@@ -1,6 +1,5 @@
-- [One-pager](briefing.md)
+[One-pager](onepager.md) / [Contact](https://scrapbox.io/stao/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)
+
 - Blog: <https://scrapbox.io/stao/>
 - Books: [GitHub](index.md) or [Website](https://stakiran.github.io/stakiran/)
-- [Software, Concepts & Books](builds.md)
-
-[Contact](https://scrapbox.io/stao/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)
+- Builds: [Software, Concepts & Books](builds.md)

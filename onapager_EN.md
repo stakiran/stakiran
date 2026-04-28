@@ -1,0 +1,1 @@
+# About Me [Japanese](onepager.md) | [English](onepager_EN.md)
