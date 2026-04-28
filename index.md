@@ -14,19 +14,15 @@ title: 吉良野すたホームページ
 <a href="https://dev.to/stakiran"><img src="assets/logo/devcommunity.png" width="64" height="32"></a>
 
 ## :email: お問い合わせ
-- X: [@stakiran2](https://x.com/stakiran2)
+[お問い合わせページ](https://scrapbox.io/stao/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)からお願いします。
 
 ## :book: 著書リスト
 
 | 表紙 | リンク |
 | ---- | ------ |
 | <a href="https://www.amazon.co.jp/dp/B0FX39RLWS">![quietlife.png](assets/img/quietlife.jpg)</a> | 2025/10/20<br>[Quiet Life ～静かな暮らしを手に入れる～](https://www.amazon.co.jp/dp/B0FX39RLWS)<br>Keywords: 静かな暮らし, 静かな退職, ミニマリズム, 独身, 孤独 |
-| <a href="https://stakiran.github.io/asdm_public/">![asdm.png](assets/img/asdm.png)</a> | 2025/08/25<br>[ASDM ～ASD部下を持つ管理職のためのマネジメントガイド～](https://stakiran.github.io/asdm_public/)<br>Keywords: ASD, マネジメント, ニューロ・ダイバーシティ |
-| <a href="https://zenn.dev/sta/books/remotism-book">![remotism.png](assets/img/remotism.png)</a> | 2025/03/24<br>[Remotism](https://zenn.dev/sta/books/remotism-book)<br>Keywords: リモートワーク, 脱コミュニケーション |
 | <a href="https://zenn.dev/sta/books/taskmanagement-kamikudaku">![taskmanagement_kamikudaku.png](assets/img/taskmanagement_kamikudaku.png)</a> | 2024/09/11<br>[タスク管理を噛み砕く](https://zenn.dev/sta/books/taskmanagement-kamikudaku)<br>Keywords: タスク管理 |
 | <a href="https://zenn.dev/sta/books/sbom-kamikudaku">![sbom_kamikudaku.png](assets/img/sbom_kamikudaku.png)</a> | 2024/05/29<br>[SBOMを噛み砕く](https://zenn.dev/sta/books/sbom-kamikudaku)<br>Keywords: SBOM, オンラインドキュメント |
-| <a href="https://zenn.dev/sta/books/workware-engineering">![wwe.png](assets/img/wwe.png)</a> | 2024/04/02<br>[Workware Engineering](https://zenn.dev/sta/books/workware-engineering)<br>Keywords: 概念的道具, メタワーク |
-| <a href="https://tms1.vercel.app/">![tms1.jpg](assets/img/tms1.jpg)</a> | 2022/12/17<br>[とあるタスク管理マニアの結論](https://tms1.vercel.app/)<br>Keywords: タスク管理 |
 | <a href="https://www.amazon.co.jp/gp/product/B09YLFQZ29">![15_scrapbox.jpg](assets/img/15_scrapbox.jpg)</a> | 2022/04/21<br>[Scrapboxing(スクラップボクシング)](https://www.amazon.co.jp/gp/product/B09YLFQZ29)<br>Keywords: Scrapbox, コミュニケーションパターン |
 | <a href="https://www.amazon.co.jp/dp/B086WR1YDZ">![06_minimalismc.jpg](assets/img/06_minimalism.jpg)</a> | 2020/04/09<br>[ミニマリズムの教科書](https://www.amazon.co.jp/dp/B086WR1YDZ)<br>Keywords: ミニマリズム, ミニマリスト |
 | <a href="https://stakiran.github.io/gtd_kamikudaku/">![05_gtd_onlinedoc.jpg](assets/img/05_gtd_onlinedoc.jpg)</a> | 2020/03/15<br>[GTDを噛み砕く](https://stakiran.github.io/gtd_kamikudaku/)<br>Keywords: GTD, オールインワン |
