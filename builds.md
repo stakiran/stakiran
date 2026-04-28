@@ -13,6 +13,7 @@
 - [stakiran/coppai: A simple snippet copy tool for managing and pasting prompts and templates.](https://github.com/stakiran/coppai)
 
 ## Concepts
+- [stakiran/raiueow: A 5-layer directory framework for knowledge management in the age of AI.](https://github.com/stakiran/raiueow)
 - [stakiran/my.md: Add `.claude/rules/my.md` to `.gitignore`.](https://github.com/stakiran/my.md)
 - [stakiran/gists: Static site generator for my GitHub Gists](https://github.com/stakiran/gists)
 - [stakiran/workhack2.0: Convert the note data for Work Techniques 2.0 into Markdown, for use by an AI agent.](https://github.com/stakiran/workhack2.0)
