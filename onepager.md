@@ -25,7 +25,7 @@ stakiran（吉良野すた）
     - 組織のボトルネックが「自律性の不足」からも生じると考えたとき、では自律性はどのように養うか → タスク管理として整備できるのではないか？
     - 例: [タスク管理の体系化](https://zenn.dev/sta/books/taskmanagement-kamikudaku)、[ルーティンワークの体系化](https://www.amazon.co.jp/dp/B07MJW8MVD)とツール([1](https://tritask.github.io/tritask-web/) [2](https://github.com/stakiran/todaros?tab=readme-ov-file))
 
-## 能力
+## 強み
 - 言語化:
     - 業界の言語化で 800 ブクマ: [誰も教えてくれないSIの本質、SIerの世界観](https://zenn.dev/sta/articles/2024-08-10-sat-what_is_si)
     - リファレンス記事で 100 万PV: [文字一覧](https://qiita.com/sta/items/848e7a8c4699a59c604f) [バッチファイル](https://qiita.com/sta/items/8cab80fe74b8dcfa5336)
