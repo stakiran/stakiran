@@ -33,7 +33,7 @@ stakiran（吉良野すた）
 - 構造化:
     - 仕事術の古典 GTD® を体系的に解釈: [GTDを噛み砕く](https://stakiran.github.io/gtd_kamikudaku/)
     - タスク管理を体系化: [タスク管理を噛み砕く](https://zenn.dev/sta/books/taskmanagement-kamikudaku)
-    - VUCA な現代に通用する仕事術の開発とエンジニアリング: [仕事術2.0｜note](https://note.com/workhack20) [Soft Skills Engineering](https://stakiran.github.io/soft-skills-engineering/) 
+    - VUCA な現代に通用する仕事術の開発とエンジニアリング: [仕事術2.0 - note](https://note.com/workhack20) [Soft Skills Engineering](https://stakiran.github.io/soft-skills-engineering/) 
 - 習慣化:
     - 100 万文字以上の小説（ライトノベル）の長期連載: [カクヨム](https://kakuyomu.jp/works/1177354054918168559) [GitHub原稿](https://github.com/stakiran/isemuge)
     - 購読数 250 人以上、累計 PV 120 万以上のブログ: [1](https://stakiran.hatenablog.com/) [2](https://stressfree-fulfilling-solo.hatenablog.com/)

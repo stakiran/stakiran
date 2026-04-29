@@ -33,7 +33,7 @@ While working as an IT engineer at a large enterprise, I explore work methods, i
 - Structuring:
     - A systematic interpretation of GTD®, the classic work methodology: [Breaking Down GTD](https://stakiran.github.io/gtd_kamikudaku/)
     - Systematizing task management: [Breaking Down Task Management](https://zenn.dev/sta/books/taskmanagement-kamikudaku)
-    - Development and engineering of work methods that work in today's VUCA world: [Work Methods 2.0 | note](https://note.com/workhack20) [Soft Skills Engineering](https://stakiran.github.io/soft-skills-engineering/) 
+    - Development and engineering of work methods that work in today's VUCA world: [Work Methods 2.0 - note](https://note.com/workhack20) [Soft Skills Engineering](https://stakiran.github.io/soft-skills-engineering/) 
 - Habit Formation:
     - Long-running serialization of a novel (light novel) exceeding 1 million Japanese characters: [Kakuyomu](https://kakuyomu.jp/works/1177354054918168559) [GitHub manuscript](https://github.com/stakiran/isemuge)
     - Blogs with 250+ subscribers and 1.2 million+ cumulative PVs: [1](https://stakiran.hatenablog.com/) [2](https://stressfree-fulfilling-solo.hatenablog.com/)
