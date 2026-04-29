@@ -11,7 +11,7 @@ stakiran（吉良野すた）
 - 主体的探索の確立: 知的生産、タスク管理、セルフマネジメント（自己管理）を整備するには
 - 多様性の実装: 多様性を理念で終わらせず、運用に落とし込むには
 
-## 研究テーマ
+## 研究テーマ例
 - Human Context Engineering:
     - Context Engineering の空白地帯（何を入れるかの「何」をどうつくるか）を整備する
     - 例: [概要記事(Zenn)](https://zenn.dev/sta/articles/2026-04-18-context_engineering)
@@ -21,7 +21,7 @@ stakiran（吉良野すた）
 - 知的生産の再考:
     - そもそも知的生産とは何か。「知」とは？そのつくりかたや検証方法は？万人に開放するには？
     - 例: [Workware Engineering](https://zenn.dev/sta/books/workware-engineering)、知的生産物の展示([1](https://scrapbox.io/neoterizer/) [2](https://note.com/workhack20))、[ソフトスキル・エンジニアリング](https://stakiran.github.io/soft-skills-engineering/)
-- タスク管理
+- タスク管理:
     - 組織のボトルネックが「自律性の不足」からも生じると考えたとき、では自律性はどのように養うか → タスク管理として整備できるのではないか？
     - 例: [タスク管理の体系化](https://zenn.dev/sta/books/taskmanagement-kamikudaku)、[ルーティンワークの体系化](https://www.amazon.co.jp/dp/B07MJW8MVD)とツール([1](https://tritask.github.io/tritask-web/) [2](https://github.com/stakiran/todaros?tab=readme-ov-file))
 
