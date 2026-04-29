@@ -31,4 +31,5 @@ title: 吉良野すたホームページ
 | <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 2018/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
 
 ## 研究者としての私
-[自己紹介](onepager.md) | [GitHub](https://github.com/stakiran)
+- [自己紹介](onepager.md)
+- [GitHub](https://github.com/stakiran)
