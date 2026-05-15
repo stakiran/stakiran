@@ -18,7 +18,6 @@
 ## Concepts
 - [stakiran/raiueow: A 5-layer directory framework for knowledge management in the age of AI.](https://github.com/stakiran/raiueow)
 - [stakiran/my.md: Add `.claude/rules/my.md` to `.gitignore`.](https://github.com/stakiran/my.md)
-- [stakiran/gists: Static site generator for my GitHub Gists](https://github.com/stakiran/gists)
 - [stakiran/workhack2.0: Convert the note data for Work Techniques 2.0 into Markdown, for use by an AI agent.](https://github.com/stakiran/workhack2.0)
 - [stakiran/collaboration-modules: Conceptual tools for flexible collaboration](https://github.com/stakiran/collaboration-modules)
 - [stakiran/solo-work-modules: Conceptual toolkit for solo workers — frameworks for task management, intellectual production, and personal productivity, designed for AI-assisted exploration.](https://github.com/stakiran/solo-work-modules)
