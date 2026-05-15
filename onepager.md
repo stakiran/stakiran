@@ -1,5 +1,5 @@
 # 自己紹介 [Japanese](onepager.md) | [English](onepager_EN.md)
-stakiran（吉良野すた）
+stakiran
 
 ![](assets/img/260429_110131.png)
 

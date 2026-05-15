@@ -1,10 +1,9 @@
 ---
 layout: default
-title: 吉良野すたホームページ
+title: stakiran（吉良野すた）ホームページ
 ---
 
-![avatar](assets/img/avatar_half.jpg)
-
+## アカウント
 <a href="https://www.amazon.co.jp/%E5%90%89%E8%89%AF%E9%87%8E%E3%81%99%E3%81%9F/e/B07JLHMBDV"><img src="assets/logo/kindle_gray.png" width="64" height="32"></a>
 <a href="https://github.com/stakiran"><img src="assets/logo/GitHub-Mark-32px.png"></a>
 <a href="https://scrapbox.io/stao/"><img src="assets/logo/scrapbox_logo.svg" width="32" height="32"></a>
@@ -13,23 +12,9 @@ title: 吉良野すたホームページ
 <a href="https://zenn.dev/sta"><img src="assets/logo/zenn.png" width="64" height="32"></a>
 <a href="https://dev.to/stakiran"><img src="assets/logo/devcommunity.png" width="64" height="32"></a>
 
-## :email: お問い合わせ
+## 自分について
+- [stakiran](onepager.md): 研究者としての私
+- [吉良野すた](kiranosuta.md): 普段の俺
+
+## お問い合わせ
 [お問い合わせページ](https://scrapbox.io/stao/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)からお願いします。
-
-## :book: 著書リスト
-
-| 表紙 | リンク |
-| ---- | ------ |
-| <a href="https://www.amazon.co.jp/dp/B0FX39RLWS">![quietlife.png](assets/img/quietlife.jpg)</a> | 2025/10/20<br>[Quiet Life ～静かな暮らしを手に入れる～](https://www.amazon.co.jp/dp/B0FX39RLWS)<br>Keywords: 静かな暮らし, 静かな退職, ミニマリズム, 独身, 孤独 |
-| <a href="https://zenn.dev/sta/books/taskmanagement-kamikudaku">![taskmanagement_kamikudaku.png](assets/img/taskmanagement_kamikudaku.png)</a> | 2024/09/11<br>[タスク管理を噛み砕く](https://zenn.dev/sta/books/taskmanagement-kamikudaku)<br>Keywords: タスク管理 |
-| <a href="https://zenn.dev/sta/books/sbom-kamikudaku">![sbom_kamikudaku.png](assets/img/sbom_kamikudaku.png)</a> | 2024/05/29<br>[SBOMを噛み砕く](https://zenn.dev/sta/books/sbom-kamikudaku)<br>Keywords: SBOM, オンラインドキュメント |
-| <a href="https://www.amazon.co.jp/gp/product/B09YLFQZ29">![15_scrapbox.jpg](assets/img/15_scrapbox.jpg)</a> | 2022/04/21<br>[Scrapboxing(スクラップボクシング)](https://www.amazon.co.jp/gp/product/B09YLFQZ29)<br>Keywords: Scrapbox, コミュニケーションパターン |
-| <a href="https://www.amazon.co.jp/dp/B086WR1YDZ">![06_minimalismc.jpg](assets/img/06_minimalism.jpg)</a> | 2020/04/09<br>[ミニマリズムの教科書](https://www.amazon.co.jp/dp/B086WR1YDZ)<br>Keywords: ミニマリズム, ミニマリスト |
-| <a href="https://stakiran.github.io/gtd_kamikudaku/">![05_gtd_onlinedoc.jpg](assets/img/05_gtd_onlinedoc.jpg)</a> | 2020/03/15<br>[GTDを噛み砕く](https://stakiran.github.io/gtd_kamikudaku/)<br>Keywords: GTD, オールインワン |
-| <a href="https://www.amazon.co.jp/gp/product/B07R6FTSMT/">![03_hidemaru.jpg](assets/img/03_hidemaru.jpg)</a> | 2019/04/27<br>[執筆を効率化したい人のための秀丸エディタ実践入門](https://www.amazon.co.jp/gp/product/B07R6FTSMT/)<br>Keywords: 執筆の効率化, テキストエディタ, 秀丸エディタ |
-| <a href="https://www.amazon.co.jp/gp/product/B07MJW8MVD/">![02_routinetask.jpg](assets/img/02_routinetask.jpg)</a> | 2019/01/13<br>[ルーチンタスクの底力: やり忘れとストレスをなくす仕組みと実践](https://www.amazon.co.jp/gp/product/B07MJW8MVD/)<br>Keywords: タスク管理, ルーチンワーク |
-| <a href="https://www.amazon.co.jp/gp/product/B07JF3BHP5/">![01_run.jpg](assets/img/01_run.jpg)</a> | 2018/10/13<br>[「ファイル名を指定して実行」のすべて](https://www.amazon.co.jp/gp/product/B07JF3BHP5/)<br>Keywords: Winbows, ショートカット, カスタマイズ, コマンドライン |
-
-## 研究者としての私
-- [自己紹介](onepager.md)
-- [GitHub](https://github.com/stakiran)
