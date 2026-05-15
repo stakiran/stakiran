@@ -30,3 +30,15 @@ ASD x IT x ソロの世界観と、そこから生み出された利便性をお
 | 2017-2019 | [Qiita @sta](https://qiita.com/sta)<br>Qiita<br>IT、初心者向け、エンタメ |
 | 2018-2021 | [ガラパゴスタ](https://stressfree-fulfilling-solo.hatenablog.com/)<br>はてなブログ<br>ライフハック x ソロ志向 |
 | 2025 | [DEV Community @sta](https://dev.to/stakiran)<br>Dev Community<br>IT x ソフトスキル x 英語 |
+
+## 趣味
+- シャッフルダンス・音ゲー
+    - [YouTube @danstadrs](https://www.youtube.com/@danstadrs):
+    - [Cosense: ランニングマンおじさん](https://scrapbox.io/rmog3/)
+    - [DDS - DanceDanceShuffle](https://stakiran.github.io/dds/)
+- 創作（ライトノベル）
+    - [カクヨム @stasta](https://kakuyomu.jp/users/stasta)
+- 運動体系
+    - [Cosense: リズムーブ ～リズミカルに動いて楽しもう～](https://scrapbox.io/rhythmove/)
+- マインクラフト
+    - [Cosense: マインクラフト企画集](https://scrapbox.io/minecraft-projects/)
