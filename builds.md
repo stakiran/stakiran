@@ -7,6 +7,7 @@
 - [stakiran/eye-rest-reminder: A red border flashes across your screen so you don't forget to blink.](https://github.com/stakiran/eye-rest-reminder)
 - [stakiran/github-trend-summarizer: Scrapes GitHub Trending and generates per-repo summaries using Claude Code](https://github.com/stakiran/github-trend-summarizer)
 - [stakiran/screenshot2text: Screenshot to text in one shot — OCR your clipboard image instantly with Claude Vision.](https://github.com/stakiran/screenshot2text)
+- [stakiran/lightgame100: Minecraft Fabric minigame: light up the underground within a 100-block border.](https://github.com/stakiran/lightgame100)
 - [stakiran/scbdown: A hybrid markup format bridging Scrapbox and Markdown.](https://github.com/stakiran/scbdown)
 - [stakiran/cb2gist: A CLI tool that creates a public GitHub Gist from clipboard contents and opens it in your browser.](https://github.com/stakiran/cb2gist)
 - [stakiran/jisui: A personal screen capture + OCR assist tool.](https://github.com/stakiran/jisui)
