@@ -42,3 +42,4 @@ ASD x IT x ソロの世界観と、そこから生み出された利便性をお
     - [Cosense: リズムーブ ～リズミカルに動いて楽しもう～](https://scrapbox.io/rhythmove/)
 - マインクラフト
     - [Cosense: マインクラフト企画集](https://scrapbox.io/minecraft-projects/)
+    - [Light Game 100](https://stakiran.github.io/lightgame100/)
