@@ -3,6 +3,7 @@
 *Within each section, items are listed newest first.*
 
 ## Software
+- [stakiran/kairon: Context-aware scheduler — agents fire when an LLM judges the moment is right.](https://github.com/stakiran/kairon)
 - [stakiran/effecounter: A simple counter app to log factors that disrupt your ideal focused state, inspired by Engineering Effectiveness](https://github.com/stakiran/effecounter)
 - [stakiran/eye-rest-reminder: A red border flashes across your screen so you don't forget to blink.](https://github.com/stakiran/eye-rest-reminder)
 - [stakiran/github-trend-summarizer: Scrapes GitHub Trending and generates per-repo summaries using Claude Code](https://github.com/stakiran/github-trend-summarizer)
