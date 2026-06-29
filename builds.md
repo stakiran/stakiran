@@ -3,6 +3,7 @@
 *Within each section, items are listed newest first.*
 
 ## Software
+- [stakiran/vscode-scb: A VS Code extension that brings Scrapbox-style writing to .scb files: syntax highlighting, 1-space indents, and [bracket] links you can open as new or existing files.](https://github.com/stakiran/vscode-scb)
 - [stakiran/kairon: Context-aware scheduler — agents fire when an LLM judges the moment is right.](https://github.com/stakiran/kairon)
 - [stakiran/effecounter: A simple counter app to log factors that disrupt your ideal focused state, inspired by Engineering Effectiveness](https://github.com/stakiran/effecounter)
 - [stakiran/eye-rest-reminder: A red border flashes across your screen so you don't forget to blink.](https://github.com/stakiran/eye-rest-reminder)
