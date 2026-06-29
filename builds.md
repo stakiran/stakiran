@@ -43,6 +43,7 @@
 - [stakiran/soft-skills-engineering: To engineer soft skills.](https://github.com/stakiran/soft-skills-engineering)
 
 ## Docs
+- [stakiran/rawden: raw den ― ありのまま書けばいい。じぶんのねぐらなんだから。](https://github.com/stakiran/rawden)
 - [stakiran/asdm_public: A management guide for managers supporting autistic team members.](https://github.com/stakiran/asdm_public)
 - [stakiran/remotism: Make remote the default. A book on "Default Remote" — the next work paradigm after the office.](https://github.com/stakiran/remotism)
 - [stakiran/sbom_kamikudaku: An online book that breaks down SBOM (Software Bill of Materials) — covering fundamentals, formats (SPDX/CycloneDX), tooling, vulnerability management, and practical adoption.](https://github.com/stakiran/sbom_kamikudaku)
