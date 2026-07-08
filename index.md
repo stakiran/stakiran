@@ -11,7 +11,7 @@ title: stakiran/吉良野すた ホームページ
 <a href="https://scrapbox.io/stao/"><img src="assets/logo/scrapbox_logo.svg" width="32" height="32"></a>
 
 ## 自分について
-- [One-Pager（一枚で自己紹介）](onepager.md)
+- [自己紹介](onepager.md)
 
 ## お問い合わせ
 [お問い合わせページ](https://scrapbox.io/stao/Contact)からお願いします。
