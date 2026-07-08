@@ -28,8 +28,6 @@ AI 利活用のボトルネックは「組織の暗黙知が AI に与えられ�
     - (Website) [GTDを噛み砕く](https://stakiran.github.io/gtd_kamikudaku/)
 - 「教えられないもの」とされてきたソフトスキルを、自らつくれるものにする:
     - (Website) [Soft Skills Engineering](https://stakiran.github.io/soft-skills-engineering/)
-- VUCA な現代に通用する仕事術の開発とエンジニアリング:
-    - (note) [仕事術2.0](https://note.com/workhack20)
 
 ## できること 3: 複雑なものを、届く言葉にする
 専門家や組織内部の暗黙知を、誰でも読めるように翻訳します。
