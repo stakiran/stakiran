@@ -1,4 +1,3 @@
-- [One-pager](onepager.md)
-- [Software, Concepts & Docs](builds.md)
-- Homepage: <https://stakiran.github.io/stakiran/>
+- [Works](builds.md)
+- Links: <https://stakiran.github.io/>
 - Blog: <https://scrapbox.io/stao/>
