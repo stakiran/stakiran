@@ -3,6 +3,10 @@
 *Within each section, items are listed newest first.*
 
 ## Software
+- [stakiran/todaros-puter:Recurring task management with Puter.js](https://github.com/stakiran/todaros-puter)
+- [stakiran/playlist1: A custom YouTube playlist player designed to eliminate the inconveniences of YouTube's built-in playlist experience.](https://github.com/stakiran/playlist1)
+- [stakiran/kizamu1: A different take from jj: record with ki, then polish with AI before pushing.](https://github.com/stakiran/kizamu1)
+- [stakiran/ralarm: A tiny always-on-top alarm app that makes sure you never miss a meeting — single binary, zero runtime](https://github.com/stakiran/ralarm)
 - [stakiran/vscode-scb: A VS Code extension that brings Scrapbox-style writing to .scb files: syntax highlighting, 1-space indents, and [bracket] links you can open as new or existing files.](https://github.com/stakiran/vscode-scb)
 - [stakiran/kairon: Context-aware scheduler — agents fire when an LLM judges the moment is right.](https://github.com/stakiran/kairon)
 - [stakiran/effecounter: A simple counter app to log factors that disrupt your ideal focused state, inspired by Engineering Effectiveness](https://github.com/stakiran/effecounter)
@@ -44,6 +48,7 @@
 - [stakiran/soft-skills-engineering: To engineer soft skills.](https://github.com/stakiran/soft-skills-engineering)
 
 ## Docs
+- [stakiran/gists2: A gist-powered LLM Wiki that turns shared notes into an AI-friendly knowledge base.](https://github.com/stakiran/gists2)
 - [stakiran/rawden: raw den ― ありのまま書けばいい。じぶんのねぐらなんだから。](https://github.com/stakiran/rawden)
 - [stakiran/asdm_public: A management guide for managers supporting autistic team members.](https://github.com/stakiran/asdm_public)
 - [stakiran/remotism: Make remote the default. A book on "Default Remote" — the next work paradigm after the office.](https://github.com/stakiran/remotism)
@@ -51,3 +56,6 @@
 - [stakiran/taskmanagement-kamikudaku: A comprehensive online book on task management — covering personal/partner/project scopes, strategies, tools, and practical approaches to building your own system.](https://github.com/stakiran/taskmanagement-kamikudaku)
 - [stakiran/workware_engineering: A framework for creating and using "workware": named, conceptual tools for work. Enables casual validation, solo work, and breaking past mental/process limits.](https://github.com/stakiran/workware_engineering)
 - [stakiran/tms1: An online book on task management, written wiki-style.](https://github.com/stakiran/tms1)
+
+## Catch-upper
+- [stakiran/aicatchup: AI update tracker for collecting, organizing, and catching up on interesting AI news, ideas, and resources.](https://github.com/stakiran/aicatchup)
