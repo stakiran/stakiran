@@ -1,3 +1,3 @@
-- [Works](builds.md)
+- [Works](works.md)
 - Links: <https://stakiran.github.io/>
 - Blog: <https://scrapbox.io/stao/>
