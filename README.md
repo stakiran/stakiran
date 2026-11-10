@@ -1,3 +1,4 @@
 - [Works](works.md)
 - Links: <https://stakiran.github.io/>
 - Blog: <https://scrapbox.io/stao/>
+- Memo: <https://gist.github.com/stakiran>
